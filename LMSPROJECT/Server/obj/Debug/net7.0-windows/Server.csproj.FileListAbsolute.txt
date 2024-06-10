@@ -1,0 +1,17 @@
+C:\Users\lenovo\Desktop\网编大作业\library-management-system -开发中\LMSPROJECT\Server\bin\Debug\net7.0-windows\Server.exe
+C:\Users\lenovo\Desktop\网编大作业\library-management-system -开发中\LMSPROJECT\Server\bin\Debug\net7.0-windows\Server.deps.json
+C:\Users\lenovo\Desktop\网编大作业\library-management-system -开发中\LMSPROJECT\Server\bin\Debug\net7.0-windows\Server.runtimeconfig.json
+C:\Users\lenovo\Desktop\网编大作业\library-management-system -开发中\LMSPROJECT\Server\bin\Debug\net7.0-windows\Server.dll
+C:\Users\lenovo\Desktop\网编大作业\library-management-system -开发中\LMSPROJECT\Server\bin\Debug\net7.0-windows\Server.pdb
+C:\Users\lenovo\Desktop\网编大作业\library-management-system -开发中\LMSPROJECT\Server\obj\Debug\net7.0-windows\Server.Form1.resources
+C:\Users\lenovo\Desktop\网编大作业\library-management-system -开发中\LMSPROJECT\Server\obj\Debug\net7.0-windows\Server.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\网编大作业\library-management-system -开发中\LMSPROJECT\Server\obj\Debug\net7.0-windows\Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\网编大作业\library-management-system -开发中\LMSPROJECT\Server\obj\Debug\net7.0-windows\Server.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\网编大作业\library-management-system -开发中\LMSPROJECT\Server\obj\Debug\net7.0-windows\Server.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\网编大作业\library-management-system -开发中\LMSPROJECT\Server\obj\Debug\net7.0-windows\Server.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\网编大作业\library-management-system -开发中\LMSPROJECT\Server\obj\Debug\net7.0-windows\Server.sourcelink.json
+C:\Users\lenovo\Desktop\网编大作业\library-management-system -开发中\LMSPROJECT\Server\obj\Debug\net7.0-windows\Server.dll
+C:\Users\lenovo\Desktop\网编大作业\library-management-system -开发中\LMSPROJECT\Server\obj\Debug\net7.0-windows\refint\Server.dll
+C:\Users\lenovo\Desktop\网编大作业\library-management-system -开发中\LMSPROJECT\Server\obj\Debug\net7.0-windows\Server.pdb
+C:\Users\lenovo\Desktop\网编大作业\library-management-system -开发中\LMSPROJECT\Server\obj\Debug\net7.0-windows\Server.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\网编大作业\library-management-system -开发中\LMSPROJECT\Server\obj\Debug\net7.0-windows\ref\Server.dll

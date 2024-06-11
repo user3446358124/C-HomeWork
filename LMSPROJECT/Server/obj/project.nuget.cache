@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "CUZH95rT7h+1i5gUtXBSsMMd41V4BcUdixtjr9E8TAE4y7+2Y+E6TZz33LHIrxTAZcW1nnIm4/+jkMf3POLeLQ==",
+  "dgSpecHash": "Aj/QJr9zTV8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\lenovo\\Desktop\\网编大作业\\library-management-system -开发中\\LMSPROJECT\\Server\\Server.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\OneDrive - Henan\\new_code\\VS\\homework\\C-HomeWork\\LMSPROJECT\\Server\\Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.19\\microsoft.windowsdesktop.app.ref.7.0.19.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.19\\microsoft.netcore.app.ref.7.0.19.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.19\\microsoft.aspnetcore.app.ref.7.0.19.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.19\\microsoft.netcore.app.host.win-x64.7.0.19.nupkg.sha512"
+  ],
   "logs": []
 }

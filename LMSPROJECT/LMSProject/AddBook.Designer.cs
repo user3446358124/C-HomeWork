@@ -70,7 +70,7 @@
             this.panel1.Controls.Add(this.label3);
             this.panel1.Location = new System.Drawing.Point(0, 0);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(740, 64);
+            this.panel1.Size = new System.Drawing.Size(740, 59);
             this.panel1.TabIndex = 3;
             // 
             // circularPicture2
@@ -78,7 +78,7 @@
             this.circularPicture2.Image = ((System.Drawing.Image)(resources.GetObject("circularPicture2.Image")));
             this.circularPicture2.Location = new System.Drawing.Point(3, 3);
             this.circularPicture2.Name = "circularPicture2";
-            this.circularPicture2.Size = new System.Drawing.Size(87, 61);
+            this.circularPicture2.Size = new System.Drawing.Size(87, 56);
             this.circularPicture2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.circularPicture2.TabIndex = 8;
             this.circularPicture2.TabStop = false;
@@ -89,7 +89,7 @@
             this.circularPicture1.Image = ((System.Drawing.Image)(resources.GetObject("circularPicture1.Image")));
             this.circularPicture1.Location = new System.Drawing.Point(684, 3);
             this.circularPicture1.Name = "circularPicture1";
-            this.circularPicture1.Size = new System.Drawing.Size(53, 58);
+            this.circularPicture1.Size = new System.Drawing.Size(53, 54);
             this.circularPicture1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.circularPicture1.TabIndex = 8;
             this.circularPicture1.TabStop = false;
@@ -100,11 +100,11 @@
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("Calibri", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.label3.ForeColor = System.Drawing.Color.White;
-            this.label3.Location = new System.Drawing.Point(314, 21);
+            this.label3.Location = new System.Drawing.Point(314, 19);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(96, 26);
+            this.label3.Size = new System.Drawing.Size(104, 26);
             this.label3.TabIndex = 7;
-            this.label3.Text = "Add Book";
+            this.label3.Text = "添加图书";
             // 
             // panel5
             // 
@@ -131,9 +131,9 @@
             this.panel5.Controls.Add(this.panel8);
             this.panel5.Controls.Add(this.txtbkName);
             this.panel5.Font = new System.Drawing.Font("Calibri", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.panel5.Location = new System.Drawing.Point(31, 143);
+            this.panel5.Location = new System.Drawing.Point(31, 132);
             this.panel5.Name = "panel5";
-            this.panel5.Size = new System.Drawing.Size(658, 229);
+            this.panel5.Size = new System.Drawing.Size(658, 211);
             this.panel5.TabIndex = 17;
             this.panel5.Paint += new System.Windows.Forms.PaintEventHandler(this.panel5_Paint);
             // 
@@ -142,7 +142,7 @@
             this.btnBookCancel.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.btnBookCancel.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(0)))));
             this.btnBookCancel.BackgroundColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(0)))));
-            this.btnBookCancel.ButtonText = "Refresh";
+            this.btnBookCancel.ButtonText = "刷新";
             this.btnBookCancel.CausesValidation = false;
             this.btnBookCancel.ErrorImageLeft = ((System.Drawing.Image)(resources.GetObject("btnBookCancel.ErrorImageLeft")));
             this.btnBookCancel.ErrorImageRight = ((System.Drawing.Image)(resources.GetObject("btnBookCancel.ErrorImageRight")));
@@ -154,12 +154,12 @@
             this.btnBookCancel.ImageLeft = null;
             this.btnBookCancel.ImageRight = null;
             this.btnBookCancel.LeftPictureColor = System.Drawing.Color.Transparent;
-            this.btnBookCancel.Location = new System.Drawing.Point(553, 182);
+            this.btnBookCancel.Location = new System.Drawing.Point(553, 168);
             this.btnBookCancel.Name = "btnBookCancel";
             this.btnBookCancel.PaddingLeftPicture = new System.Windows.Forms.Padding(0);
             this.btnBookCancel.PaddingRightPicture = new System.Windows.Forms.Padding(0);
             this.btnBookCancel.RightPictureColor = System.Drawing.Color.Transparent;
-            this.btnBookCancel.Size = new System.Drawing.Size(79, 27);
+            this.btnBookCancel.Size = new System.Drawing.Size(63, 25);
             this.btnBookCancel.SizeModeLeft = System.Windows.Forms.PictureBoxSizeMode.Normal;
             this.btnBookCancel.SizeModeRight = System.Windows.Forms.PictureBoxSizeMode.CenterImage;
             this.btnBookCancel.TabIndex = 31;
@@ -170,7 +170,7 @@
             this.btnSaveBook.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.btnSaveBook.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(40)))), ((int)(((byte)(103)))), ((int)(((byte)(178)))));
             this.btnSaveBook.BackgroundColor = System.Drawing.Color.FromArgb(((int)(((byte)(40)))), ((int)(((byte)(103)))), ((int)(((byte)(178)))));
-            this.btnSaveBook.ButtonText = "Save Info";
+            this.btnSaveBook.ButtonText = "保存信息";
             this.btnSaveBook.CausesValidation = false;
             this.btnSaveBook.ErrorImageLeft = ((System.Drawing.Image)(resources.GetObject("btnSaveBook.ErrorImageLeft")));
             this.btnSaveBook.ErrorImageRight = ((System.Drawing.Image)(resources.GetObject("btnSaveBook.ErrorImageRight")));
@@ -182,12 +182,12 @@
             this.btnSaveBook.ImageLeft = null;
             this.btnSaveBook.ImageRight = null;
             this.btnSaveBook.LeftPictureColor = System.Drawing.Color.Transparent;
-            this.btnSaveBook.Location = new System.Drawing.Point(458, 182);
+            this.btnSaveBook.Location = new System.Drawing.Point(458, 168);
             this.btnSaveBook.Name = "btnSaveBook";
             this.btnSaveBook.PaddingLeftPicture = new System.Windows.Forms.Padding(0);
             this.btnSaveBook.PaddingRightPicture = new System.Windows.Forms.Padding(0);
             this.btnSaveBook.RightPictureColor = System.Drawing.Color.Transparent;
-            this.btnSaveBook.Size = new System.Drawing.Size(89, 27);
+            this.btnSaveBook.Size = new System.Drawing.Size(69, 25);
             this.btnSaveBook.SizeModeLeft = System.Windows.Forms.PictureBoxSizeMode.Normal;
             this.btnSaveBook.SizeModeRight = System.Windows.Forms.PictureBoxSizeMode.CenterImage;
             this.btnSaveBook.TabIndex = 31;
@@ -195,7 +195,7 @@
             // 
             // bkPurchaseDate
             // 
-            this.bkPurchaseDate.Location = new System.Drawing.Point(492, 29);
+            this.bkPurchaseDate.Location = new System.Drawing.Point(492, 27);
             this.bkPurchaseDate.Name = "bkPurchaseDate";
             this.bkPurchaseDate.Size = new System.Drawing.Size(124, 21);
             this.bkPurchaseDate.TabIndex = 30;
@@ -207,16 +207,16 @@
             this.label7.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(40)))), ((int)(((byte)(103)))), ((int)(((byte)(178)))));
             this.label7.Font = new System.Drawing.Font("Calibri", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.label7.ForeColor = System.Drawing.Color.White;
-            this.label7.Location = new System.Drawing.Point(315, 133);
+            this.label7.Location = new System.Drawing.Point(315, 123);
             this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(108, 19);
+            this.label7.Size = new System.Drawing.Size(73, 19);
             this.label7.TabIndex = 29;
-            this.label7.Text = "Book Quantity";
+            this.label7.Text = "书的数量";
             // 
             // panel9
             // 
             this.panel9.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(35)))), ((int)(((byte)(36)))), ((int)(((byte)(55)))));
-            this.panel9.Location = new System.Drawing.Point(492, 149);
+            this.panel9.Location = new System.Drawing.Point(492, 138);
             this.panel9.Name = "panel9";
             this.panel9.Size = new System.Drawing.Size(124, 2);
             this.panel9.TabIndex = 28;
@@ -226,7 +226,7 @@
             this.txtbkQuantity.BackColor = System.Drawing.SystemColors.GradientInactiveCaption;
             this.txtbkQuantity.Font = new System.Drawing.Font("Calibri", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.txtbkQuantity.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(35)))), ((int)(((byte)(36)))), ((int)(((byte)(55)))));
-            this.txtbkQuantity.Location = new System.Drawing.Point(492, 127);
+            this.txtbkQuantity.Location = new System.Drawing.Point(492, 117);
             this.txtbkQuantity.Name = "txtbkQuantity";
             this.txtbkQuantity.Size = new System.Drawing.Size(124, 23);
             this.txtbkQuantity.TabIndex = 27;
@@ -237,16 +237,16 @@
             this.label8.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(40)))), ((int)(((byte)(103)))), ((int)(((byte)(178)))));
             this.label8.Font = new System.Drawing.Font("Calibri", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.label8.ForeColor = System.Drawing.Color.White;
-            this.label8.Location = new System.Drawing.Point(315, 81);
+            this.label8.Location = new System.Drawing.Point(315, 75);
             this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(82, 19);
+            this.label8.Size = new System.Drawing.Size(73, 19);
             this.label8.TabIndex = 26;
-            this.label8.Text = "Book Price";
+            this.label8.Text = "图书单价";
             // 
             // panel10
             // 
             this.panel10.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(35)))), ((int)(((byte)(36)))), ((int)(((byte)(55)))));
-            this.panel10.Location = new System.Drawing.Point(492, 100);
+            this.panel10.Location = new System.Drawing.Point(492, 92);
             this.panel10.Name = "panel10";
             this.panel10.Size = new System.Drawing.Size(124, 2);
             this.panel10.TabIndex = 25;
@@ -256,7 +256,7 @@
             this.txtbkPrice.BackColor = System.Drawing.SystemColors.GradientInactiveCaption;
             this.txtbkPrice.Font = new System.Drawing.Font("Calibri", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.txtbkPrice.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(35)))), ((int)(((byte)(36)))), ((int)(((byte)(55)))));
-            this.txtbkPrice.Location = new System.Drawing.Point(492, 78);
+            this.txtbkPrice.Location = new System.Drawing.Point(492, 72);
             this.txtbkPrice.Name = "txtbkPrice";
             this.txtbkPrice.Size = new System.Drawing.Size(124, 23);
             this.txtbkPrice.TabIndex = 24;
@@ -267,16 +267,16 @@
             this.label9.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(40)))), ((int)(((byte)(103)))), ((int)(((byte)(178)))));
             this.label9.Font = new System.Drawing.Font("Calibri", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.label9.ForeColor = System.Drawing.Color.White;
-            this.label9.Location = new System.Drawing.Point(315, 31);
+            this.label9.Location = new System.Drawing.Point(315, 29);
             this.label9.Name = "label9";
-            this.label9.Size = new System.Drawing.Size(146, 19);
+            this.label9.Size = new System.Drawing.Size(73, 19);
             this.label9.TabIndex = 23;
-            this.label9.Text = "Book Purchase Date";
+            this.label9.Text = "购书日期";
             // 
             // panel11
             // 
             this.panel11.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(35)))), ((int)(((byte)(36)))), ((int)(((byte)(55)))));
-            this.panel11.Location = new System.Drawing.Point(492, 50);
+            this.panel11.Location = new System.Drawing.Point(492, 46);
             this.panel11.Name = "panel11";
             this.panel11.Size = new System.Drawing.Size(124, 2);
             this.panel11.TabIndex = 22;
@@ -287,16 +287,16 @@
             this.label1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(40)))), ((int)(((byte)(103)))), ((int)(((byte)(178)))));
             this.label1.Font = new System.Drawing.Font("Calibri", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.label1.ForeColor = System.Drawing.Color.White;
-            this.label1.Location = new System.Drawing.Point(7, 129);
+            this.label1.Location = new System.Drawing.Point(7, 119);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(125, 19);
+            this.label1.Size = new System.Drawing.Size(57, 19);
             this.label1.TabIndex = 19;
-            this.label1.Text = "Book Publication";
+            this.label1.Text = "出版社";
             // 
             // panel6
             // 
             this.panel6.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(35)))), ((int)(((byte)(36)))), ((int)(((byte)(55)))));
-            this.panel6.Location = new System.Drawing.Point(173, 149);
+            this.panel6.Location = new System.Drawing.Point(173, 138);
             this.panel6.Name = "panel6";
             this.panel6.Size = new System.Drawing.Size(110, 2);
             this.panel6.TabIndex = 16;
@@ -307,16 +307,16 @@
             this.label5.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(40)))), ((int)(((byte)(103)))), ((int)(((byte)(178)))));
             this.label5.Font = new System.Drawing.Font("Calibri", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.label5.ForeColor = System.Drawing.Color.White;
-            this.label5.Location = new System.Drawing.Point(6, 82);
+            this.label5.Location = new System.Drawing.Point(6, 76);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(141, 19);
+            this.label5.Size = new System.Drawing.Size(73, 19);
             this.label5.TabIndex = 20;
-            this.label5.Text = "Book Author Name";
+            this.label5.Text = "作者姓名";
             // 
             // panel7
             // 
             this.panel7.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(35)))), ((int)(((byte)(36)))), ((int)(((byte)(55)))));
-            this.panel7.Location = new System.Drawing.Point(173, 100);
+            this.panel7.Location = new System.Drawing.Point(173, 92);
             this.panel7.Name = "panel7";
             this.panel7.Size = new System.Drawing.Size(110, 2);
             this.panel7.TabIndex = 17;
@@ -326,7 +326,7 @@
             this.txtbkPublication.BackColor = System.Drawing.SystemColors.GradientInactiveCaption;
             this.txtbkPublication.Font = new System.Drawing.Font("Calibri", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.txtbkPublication.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(35)))), ((int)(((byte)(36)))), ((int)(((byte)(55)))));
-            this.txtbkPublication.Location = new System.Drawing.Point(173, 127);
+            this.txtbkPublication.Location = new System.Drawing.Point(173, 117);
             this.txtbkPublication.Name = "txtbkPublication";
             this.txtbkPublication.Size = new System.Drawing.Size(110, 23);
             this.txtbkPublication.TabIndex = 13;
@@ -337,18 +337,18 @@
             this.label6.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(40)))), ((int)(((byte)(103)))), ((int)(((byte)(178)))));
             this.label6.Font = new System.Drawing.Font("Calibri", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.label6.ForeColor = System.Drawing.Color.White;
-            this.label6.Location = new System.Drawing.Point(7, 31);
+            this.label6.Location = new System.Drawing.Point(7, 29);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(88, 19);
+            this.label6.Size = new System.Drawing.Size(73, 19);
             this.label6.TabIndex = 21;
-            this.label6.Text = "Book Name";
+            this.label6.Text = "图书名字";
             // 
             // txtbkAuthor
             // 
             this.txtbkAuthor.BackColor = System.Drawing.SystemColors.GradientInactiveCaption;
             this.txtbkAuthor.Font = new System.Drawing.Font("Calibri", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.txtbkAuthor.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(35)))), ((int)(((byte)(36)))), ((int)(((byte)(55)))));
-            this.txtbkAuthor.Location = new System.Drawing.Point(173, 78);
+            this.txtbkAuthor.Location = new System.Drawing.Point(173, 72);
             this.txtbkAuthor.Name = "txtbkAuthor";
             this.txtbkAuthor.Size = new System.Drawing.Size(110, 23);
             this.txtbkAuthor.TabIndex = 14;
@@ -356,7 +356,7 @@
             // panel8
             // 
             this.panel8.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(35)))), ((int)(((byte)(36)))), ((int)(((byte)(55)))));
-            this.panel8.Location = new System.Drawing.Point(173, 54);
+            this.panel8.Location = new System.Drawing.Point(173, 50);
             this.panel8.Name = "panel8";
             this.panel8.Size = new System.Drawing.Size(110, 2);
             this.panel8.TabIndex = 18;
@@ -366,7 +366,7 @@
             this.txtbkName.BackColor = System.Drawing.SystemColors.GradientInactiveCaption;
             this.txtbkName.Font = new System.Drawing.Font("Calibri", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.txtbkName.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(35)))), ((int)(((byte)(36)))), ((int)(((byte)(55)))));
-            this.txtbkName.Location = new System.Drawing.Point(173, 32);
+            this.txtbkName.Location = new System.Drawing.Point(173, 30);
             this.txtbkName.Name = "txtbkName";
             this.txtbkName.Size = new System.Drawing.Size(110, 23);
             this.txtbkName.TabIndex = 15;
@@ -374,20 +374,20 @@
             // pictureBox1
             // 
             this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
-            this.pictureBox1.Location = new System.Drawing.Point(264, 60);
+            this.pictureBox1.Location = new System.Drawing.Point(264, 55);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(164, 96);
+            this.pictureBox1.Size = new System.Drawing.Size(164, 89);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox1.TabIndex = 18;
             this.pictureBox1.TabStop = false;
             // 
             // AddBook
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.White;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.ClientSize = new System.Drawing.Size(739, 509);
+            this.ClientSize = new System.Drawing.Size(739, 470);
             this.Controls.Add(this.panel5);
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.panel1);

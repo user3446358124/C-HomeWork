@@ -1,133 +1,133 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\lenovo\\Desktop\\\u7F51\u7F16\u5927\u4F5C\u4E1A\\library-management-system -\u5F00\u53D1\u4E2D\\LMSPROJECT\\",
+  "WorkspaceRootPath": "D:\\OneDrive - Henan\\new_code\\VS\\homework\\C-HomeWork\\LMSPROJECT\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EEF49DD0-4E53-4984-A1BD-4A80E4FBD6CB}|LMSProject\\LMSProject.csproj|C:\\Users\\lenovo\\Desktop\\\u7F51\u7F16\u5927\u4F5C\u4E1A\\library-management-system -\u5F00\u53D1\u4E2D\\LMSPROJECT\\lmsproject\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EEF49DD0-4E53-4984-A1BD-4A80E4FBD6CB}|LMSProject\\LMSProject.csproj|d:\\onedrive - henan\\new_code\\vs\\homework\\c-homework\\lmsproject\\lmsproject\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EEF49DD0-4E53-4984-A1BD-4A80E4FBD6CB}|LMSProject\\LMSProject.csproj|solutionrelative:lmsproject\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EEF49DD0-4E53-4984-A1BD-4A80E4FBD6CB}|LMSProject\\LMSProject.csproj|C:\\Users\\lenovo\\Desktop\\\u7F51\u7F16\u5927\u4F5C\u4E1A\\library-management-system -\u5F00\u53D1\u4E2D\\LMSPROJECT\\lmsproject\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{EEF49DD0-4E53-4984-A1BD-4A80E4FBD6CB}|LMSProject\\LMSProject.csproj|D:\\OneDrive - Henan\\new_code\\VS\\homework\\C-HomeWork\\LMSPROJECT\\lmsproject\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{EEF49DD0-4E53-4984-A1BD-4A80E4FBD6CB}|LMSProject\\LMSProject.csproj|solutionrelative:lmsproject\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EEF49DD0-4E53-4984-A1BD-4A80E4FBD6CB}|LMSProject\\LMSProject.csproj|C:\\Users\\lenovo\\Desktop\\\u7F51\u7F16\u5927\u4F5C\u4E1A\\library-management-system -\u5F00\u53D1\u4E2D\\LMSPROJECT\\lmsproject\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EEF49DD0-4E53-4984-A1BD-4A80E4FBD6CB}|LMSProject\\LMSProject.csproj|D:\\OneDrive - Henan\\new_code\\VS\\homework\\C-HomeWork\\LMSPROJECT\\lmsproject\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EEF49DD0-4E53-4984-A1BD-4A80E4FBD6CB}|LMSProject\\LMSProject.csproj|solutionrelative:lmsproject\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EEF49DD0-4E53-4984-A1BD-4A80E4FBD6CB}|LMSProject\\LMSProject.csproj|C:\\Users\\lenovo\\Desktop\\\u7F51\u7F16\u5927\u4F5C\u4E1A\\library-management-system -\u5F00\u53D1\u4E2D\\LMSPROJECT\\lmsproject\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{EEF49DD0-4E53-4984-A1BD-4A80E4FBD6CB}|LMSProject\\LMSProject.csproj|D:\\OneDrive - Henan\\new_code\\VS\\homework\\C-HomeWork\\LMSPROJECT\\lmsproject\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{EEF49DD0-4E53-4984-A1BD-4A80E4FBD6CB}|LMSProject\\LMSProject.csproj|solutionrelative:lmsproject\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0857DF67-8DF6-44E9-87E8-BD9D68665C56}|Server\\Server.csproj|c:\\users\\lenovo\\desktop\\\u7F51\u7F16\u5927\u4F5C\u4E1A\\library-management-system -\u5F00\u53D1\u4E2D\\lmsproject\\server\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0857DF67-8DF6-44E9-87E8-BD9D68665C56}|Server\\Server.csproj|d:\\onedrive - henan\\new_code\\vs\\homework\\c-homework\\lmsproject\\server\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0857DF67-8DF6-44E9-87E8-BD9D68665C56}|Server\\Server.csproj|solutionrelative:server\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0857DF67-8DF6-44E9-87E8-BD9D68665C56}|Server\\Server.csproj|C:\\Users\\lenovo\\Desktop\\\u7F51\u7F16\u5927\u4F5C\u4E1A\\library-management-system -\u5F00\u53D1\u4E2D\\LMSPROJECT\\server\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{0857DF67-8DF6-44E9-87E8-BD9D68665C56}|Server\\Server.csproj|D:\\OneDrive - Henan\\new_code\\VS\\homework\\C-HomeWork\\LMSPROJECT\\server\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{0857DF67-8DF6-44E9-87E8-BD9D68665C56}|Server\\Server.csproj|solutionrelative:server\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EEF49DD0-4E53-4984-A1BD-4A80E4FBD6CB}|LMSProject\\LMSProject.csproj|C:\\Users\\lenovo\\Desktop\\\u7F51\u7F16\u5927\u4F5C\u4E1A\\library-management-system -\u5F00\u53D1\u4E2D\\LMSPROJECT\\lmsproject\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{EEF49DD0-4E53-4984-A1BD-4A80E4FBD6CB}|LMSProject\\LMSProject.csproj|D:\\OneDrive - Henan\\new_code\\VS\\homework\\C-HomeWork\\LMSPROJECT\\lmsproject\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{EEF49DD0-4E53-4984-A1BD-4A80E4FBD6CB}|LMSProject\\LMSProject.csproj|solutionrelative:lmsproject\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EEF49DD0-4E53-4984-A1BD-4A80E4FBD6CB}|LMSProject\\LMSProject.csproj|C:\\Users\\lenovo\\Desktop\\\u7F51\u7F16\u5927\u4F5C\u4E1A\\library-management-system -\u5F00\u53D1\u4E2D\\LMSPROJECT\\lmsproject\\returnbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EEF49DD0-4E53-4984-A1BD-4A80E4FBD6CB}|LMSProject\\LMSProject.csproj|D:\\OneDrive - Henan\\new_code\\VS\\homework\\C-HomeWork\\LMSPROJECT\\lmsproject\\returnbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EEF49DD0-4E53-4984-A1BD-4A80E4FBD6CB}|LMSProject\\LMSProject.csproj|solutionrelative:lmsproject\\returnbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EEF49DD0-4E53-4984-A1BD-4A80E4FBD6CB}|LMSProject\\LMSProject.csproj|C:\\Users\\lenovo\\Desktop\\\u7F51\u7F16\u5927\u4F5C\u4E1A\\library-management-system -\u5F00\u53D1\u4E2D\\LMSPROJECT\\lmsproject\\returnbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{EEF49DD0-4E53-4984-A1BD-4A80E4FBD6CB}|LMSProject\\LMSProject.csproj|D:\\OneDrive - Henan\\new_code\\VS\\homework\\C-HomeWork\\LMSPROJECT\\lmsproject\\returnbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{EEF49DD0-4E53-4984-A1BD-4A80E4FBD6CB}|LMSProject\\LMSProject.csproj|solutionrelative:lmsproject\\returnbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EEF49DD0-4E53-4984-A1BD-4A80E4FBD6CB}|LMSProject\\LMSProject.csproj|C:\\Users\\lenovo\\Desktop\\\u7F51\u7F16\u5927\u4F5C\u4E1A\\library-management-system -\u5F00\u53D1\u4E2D\\LMSPROJECT\\lmsproject\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EEF49DD0-4E53-4984-A1BD-4A80E4FBD6CB}|LMSProject\\LMSProject.csproj|D:\\OneDrive - Henan\\new_code\\VS\\homework\\C-HomeWork\\LMSPROJECT\\lmsproject\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EEF49DD0-4E53-4984-A1BD-4A80E4FBD6CB}|LMSProject\\LMSProject.csproj|solutionrelative:lmsproject\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EEF49DD0-4E53-4984-A1BD-4A80E4FBD6CB}|LMSProject\\LMSProject.csproj|C:\\Users\\lenovo\\Desktop\\\u7F51\u7F16\u5927\u4F5C\u4E1A\\library-management-system -\u5F00\u53D1\u4E2D\\LMSPROJECT\\lmsproject\\addstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EEF49DD0-4E53-4984-A1BD-4A80E4FBD6CB}|LMSProject\\LMSProject.csproj|D:\\OneDrive - Henan\\new_code\\VS\\homework\\C-HomeWork\\LMSPROJECT\\lmsproject\\addstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EEF49DD0-4E53-4984-A1BD-4A80E4FBD6CB}|LMSProject\\LMSProject.csproj|solutionrelative:lmsproject\\addstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EEF49DD0-4E53-4984-A1BD-4A80E4FBD6CB}|LMSProject\\LMSProject.csproj|C:\\Users\\lenovo\\Desktop\\\u7F51\u7F16\u5927\u4F5C\u4E1A\\library-management-system -\u5F00\u53D1\u4E2D\\LMSPROJECT\\lmsproject\\addstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{EEF49DD0-4E53-4984-A1BD-4A80E4FBD6CB}|LMSProject\\LMSProject.csproj|D:\\OneDrive - Henan\\new_code\\VS\\homework\\C-HomeWork\\LMSPROJECT\\lmsproject\\addstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{EEF49DD0-4E53-4984-A1BD-4A80E4FBD6CB}|LMSProject\\LMSProject.csproj|solutionrelative:lmsproject\\addstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EEF49DD0-4E53-4984-A1BD-4A80E4FBD6CB}|LMSProject\\LMSProject.csproj|C:\\Users\\lenovo\\Desktop\\\u7F51\u7F16\u5927\u4F5C\u4E1A\\library-management-system -\u5F00\u53D1\u4E2D\\LMSPROJECT\\lmsproject\\addbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EEF49DD0-4E53-4984-A1BD-4A80E4FBD6CB}|LMSProject\\LMSProject.csproj|D:\\OneDrive - Henan\\new_code\\VS\\homework\\C-HomeWork\\LMSPROJECT\\lmsproject\\addbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EEF49DD0-4E53-4984-A1BD-4A80E4FBD6CB}|LMSProject\\LMSProject.csproj|solutionrelative:lmsproject\\addbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EEF49DD0-4E53-4984-A1BD-4A80E4FBD6CB}|LMSProject\\LMSProject.csproj|C:\\Users\\lenovo\\Desktop\\\u7F51\u7F16\u5927\u4F5C\u4E1A\\library-management-system -\u5F00\u53D1\u4E2D\\LMSPROJECT\\lmsproject\\addbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{EEF49DD0-4E53-4984-A1BD-4A80E4FBD6CB}|LMSProject\\LMSProject.csproj|D:\\OneDrive - Henan\\new_code\\VS\\homework\\C-HomeWork\\LMSPROJECT\\lmsproject\\addbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{EEF49DD0-4E53-4984-A1BD-4A80E4FBD6CB}|LMSProject\\LMSProject.csproj|solutionrelative:lmsproject\\addbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EEF49DD0-4E53-4984-A1BD-4A80E4FBD6CB}|LMSProject\\LMSProject.csproj|C:\\Users\\lenovo\\Desktop\\\u7F51\u7F16\u5927\u4F5C\u4E1A\\library-management-system -\u5F00\u53D1\u4E2D\\LMSPROJECT\\lmsproject\\viewbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{EEF49DD0-4E53-4984-A1BD-4A80E4FBD6CB}|LMSProject\\LMSProject.csproj|D:\\OneDrive - Henan\\new_code\\VS\\homework\\C-HomeWork\\LMSPROJECT\\lmsproject\\viewbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{EEF49DD0-4E53-4984-A1BD-4A80E4FBD6CB}|LMSProject\\LMSProject.csproj|solutionrelative:lmsproject\\viewbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EEF49DD0-4E53-4984-A1BD-4A80E4FBD6CB}|LMSProject\\LMSProject.csproj|C:\\Users\\lenovo\\Desktop\\\u7F51\u7F16\u5927\u4F5C\u4E1A\\library-management-system -\u5F00\u53D1\u4E2D\\LMSPROJECT\\lmsproject\\viewstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{EEF49DD0-4E53-4984-A1BD-4A80E4FBD6CB}|LMSProject\\LMSProject.csproj|D:\\OneDrive - Henan\\new_code\\VS\\homework\\C-HomeWork\\LMSPROJECT\\lmsproject\\viewstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{EEF49DD0-4E53-4984-A1BD-4A80E4FBD6CB}|LMSProject\\LMSProject.csproj|solutionrelative:lmsproject\\viewstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EEF49DD0-4E53-4984-A1BD-4A80E4FBD6CB}|LMSProject\\LMSProject.csproj|C:\\Users\\lenovo\\Desktop\\\u7F51\u7F16\u5927\u4F5C\u4E1A\\library-management-system -\u5F00\u53D1\u4E2D\\LMSPROJECT\\lmsproject\\studentlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{EEF49DD0-4E53-4984-A1BD-4A80E4FBD6CB}|LMSProject\\LMSProject.csproj|D:\\OneDrive - Henan\\new_code\\VS\\homework\\C-HomeWork\\LMSPROJECT\\lmsproject\\studentlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{EEF49DD0-4E53-4984-A1BD-4A80E4FBD6CB}|LMSProject\\LMSProject.csproj|solutionrelative:lmsproject\\studentlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EEF49DD0-4E53-4984-A1BD-4A80E4FBD6CB}|LMSProject\\LMSProject.csproj|C:\\Users\\lenovo\\Desktop\\\u7F51\u7F16\u5927\u4F5C\u4E1A\\library-management-system -\u5F00\u53D1\u4E2D\\LMSPROJECT\\lmsproject\\studentdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{EEF49DD0-4E53-4984-A1BD-4A80E4FBD6CB}|LMSProject\\LMSProject.csproj|D:\\OneDrive - Henan\\new_code\\VS\\homework\\C-HomeWork\\LMSPROJECT\\lmsproject\\studentdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{EEF49DD0-4E53-4984-A1BD-4A80E4FBD6CB}|LMSProject\\LMSProject.csproj|solutionrelative:lmsproject\\studentdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EEF49DD0-4E53-4984-A1BD-4A80E4FBD6CB}|LMSProject\\LMSProject.csproj|C:\\Users\\lenovo\\Desktop\\\u7F51\u7F16\u5927\u4F5C\u4E1A\\library-management-system -\u5F00\u53D1\u4E2D\\LMSPROJECT\\lmsproject\\booksearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EEF49DD0-4E53-4984-A1BD-4A80E4FBD6CB}|LMSProject\\LMSProject.csproj|D:\\OneDrive - Henan\\new_code\\VS\\homework\\C-HomeWork\\LMSPROJECT\\lmsproject\\booksearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EEF49DD0-4E53-4984-A1BD-4A80E4FBD6CB}|LMSProject\\LMSProject.csproj|solutionrelative:lmsproject\\booksearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EEF49DD0-4E53-4984-A1BD-4A80E4FBD6CB}|LMSProject\\LMSProject.csproj|C:\\Users\\lenovo\\Desktop\\\u7F51\u7F16\u5927\u4F5C\u4E1A\\library-management-system -\u5F00\u53D1\u4E2D\\LMSPROJECT\\lmsproject\\booksearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{EEF49DD0-4E53-4984-A1BD-4A80E4FBD6CB}|LMSProject\\LMSProject.csproj|D:\\OneDrive - Henan\\new_code\\VS\\homework\\C-HomeWork\\LMSPROJECT\\lmsproject\\booksearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{EEF49DD0-4E53-4984-A1BD-4A80E4FBD6CB}|LMSProject\\LMSProject.csproj|solutionrelative:lmsproject\\booksearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EEF49DD0-4E53-4984-A1BD-4A80E4FBD6CB}|LMSProject\\LMSProject.csproj|C:\\Users\\lenovo\\Desktop\\\u7F51\u7F16\u5927\u4F5C\u4E1A\\library-management-system -\u5F00\u53D1\u4E2D\\LMSPROJECT\\lmsproject\\issuebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EEF49DD0-4E53-4984-A1BD-4A80E4FBD6CB}|LMSProject\\LMSProject.csproj|D:\\OneDrive - Henan\\new_code\\VS\\homework\\C-HomeWork\\LMSPROJECT\\lmsproject\\issuebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EEF49DD0-4E53-4984-A1BD-4A80E4FBD6CB}|LMSProject\\LMSProject.csproj|solutionrelative:lmsproject\\issuebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EEF49DD0-4E53-4984-A1BD-4A80E4FBD6CB}|LMSProject\\LMSProject.csproj|C:\\Users\\lenovo\\Desktop\\\u7F51\u7F16\u5927\u4F5C\u4E1A\\library-management-system -\u5F00\u53D1\u4E2D\\LMSPROJECT\\lmsproject\\issuebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{EEF49DD0-4E53-4984-A1BD-4A80E4FBD6CB}|LMSProject\\LMSProject.csproj|D:\\OneDrive - Henan\\new_code\\VS\\homework\\C-HomeWork\\LMSPROJECT\\lmsproject\\issuebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{EEF49DD0-4E53-4984-A1BD-4A80E4FBD6CB}|LMSProject\\LMSProject.csproj|solutionrelative:lmsproject\\issuebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EEF49DD0-4E53-4984-A1BD-4A80E4FBD6CB}|LMSProject\\LMSProject.csproj|C:\\Users\\lenovo\\Desktop\\\u7F51\u7F16\u5927\u4F5C\u4E1A\\library-management-system -\u5F00\u53D1\u4E2D\\LMSPROJECT\\lmsproject\\completebookdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{EEF49DD0-4E53-4984-A1BD-4A80E4FBD6CB}|LMSProject\\LMSProject.csproj|D:\\OneDrive - Henan\\new_code\\VS\\homework\\C-HomeWork\\LMSPROJECT\\lmsproject\\completebookdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{EEF49DD0-4E53-4984-A1BD-4A80E4FBD6CB}|LMSProject\\LMSProject.csproj|solutionrelative:lmsproject\\completebookdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EEF49DD0-4E53-4984-A1BD-4A80E4FBD6CB}|LMSProject\\LMSProject.csproj|C:\\Users\\lenovo\\Desktop\\\u7F51\u7F16\u5927\u4F5C\u4E1A\\library-management-system -\u5F00\u53D1\u4E2D\\LMSPROJECT\\lmsproject\\circularpicture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{EEF49DD0-4E53-4984-A1BD-4A80E4FBD6CB}|LMSProject\\LMSProject.csproj|D:\\OneDrive - Henan\\new_code\\VS\\homework\\C-HomeWork\\LMSPROJECT\\lmsproject\\circularpicture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{EEF49DD0-4E53-4984-A1BD-4A80E4FBD6CB}|LMSProject\\LMSProject.csproj|solutionrelative:lmsproject\\circularpicture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EEF49DD0-4E53-4984-A1BD-4A80E4FBD6CB}|LMSProject\\LMSProject.csproj|C:\\Users\\lenovo\\Desktop\\\u7F51\u7F16\u5927\u4F5C\u4E1A\\library-management-system -\u5F00\u53D1\u4E2D\\LMSPROJECT\\lmsproject\\dashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EEF49DD0-4E53-4984-A1BD-4A80E4FBD6CB}|LMSProject\\LMSProject.csproj|D:\\OneDrive - Henan\\new_code\\VS\\homework\\C-HomeWork\\LMSPROJECT\\lmsproject\\dashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EEF49DD0-4E53-4984-A1BD-4A80E4FBD6CB}|LMSProject\\LMSProject.csproj|solutionrelative:lmsproject\\dashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EEF49DD0-4E53-4984-A1BD-4A80E4FBD6CB}|LMSProject\\LMSProject.csproj|C:\\Users\\lenovo\\Desktop\\\u7F51\u7F16\u5927\u4F5C\u4E1A\\library-management-system -\u5F00\u53D1\u4E2D\\LMSPROJECT\\lmsproject\\studentlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EEF49DD0-4E53-4984-A1BD-4A80E4FBD6CB}|LMSProject\\LMSProject.csproj|D:\\OneDrive - Henan\\new_code\\VS\\homework\\C-HomeWork\\LMSPROJECT\\lmsproject\\studentlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EEF49DD0-4E53-4984-A1BD-4A80E4FBD6CB}|LMSProject\\LMSProject.csproj|solutionrelative:lmsproject\\studentlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0857DF67-8DF6-44E9-87E8-BD9D68665C56}|Server\\Server.csproj|C:\\Users\\lenovo\\Desktop\\\u7F51\u7F16\u5927\u4F5C\u4E1A\\library-management-system -\u5F00\u53D1\u4E2D\\LMSPROJECT\\server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0857DF67-8DF6-44E9-87E8-BD9D68665C56}|Server\\Server.csproj|d:\\onedrive - henan\\new_code\\vs\\homework\\c-homework\\lmsproject\\server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0857DF67-8DF6-44E9-87E8-BD9D68665C56}|Server\\Server.csproj|solutionrelative:server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0857DF67-8DF6-44E9-87E8-BD9D68665C56}|Server\\Server.csproj|C:\\Users\\lenovo\\Desktop\\\u7F51\u7F16\u5927\u4F5C\u4E1A\\library-management-system -\u5F00\u53D1\u4E2D\\LMSPROJECT\\server\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0857DF67-8DF6-44E9-87E8-BD9D68665C56}|Server\\Server.csproj|d:\\onedrive - henan\\new_code\\vs\\homework\\c-homework\\lmsproject\\server\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0857DF67-8DF6-44E9-87E8-BD9D68665C56}|Server\\Server.csproj|solutionrelative:server\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EEF49DD0-4E53-4984-A1BD-4A80E4FBD6CB}|LMSProject\\LMSProject.csproj|C:\\Users\\lenovo\\Desktop\\\u7F51\u7F16\u5927\u4F5C\u4E1A\\library-management-system -\u5F00\u53D1\u4E2D\\LMSPROJECT\\lmsproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EEF49DD0-4E53-4984-A1BD-4A80E4FBD6CB}|LMSProject\\LMSProject.csproj|D:\\OneDrive - Henan\\new_code\\VS\\homework\\C-HomeWork\\LMSPROJECT\\lmsproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EEF49DD0-4E53-4984-A1BD-4A80E4FBD6CB}|LMSProject\\LMSProject.csproj|solutionrelative:lmsproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EEF49DD0-4E53-4984-A1BD-4A80E4FBD6CB}|LMSProject\\LMSProject.csproj|C:\\Users\\lenovo\\Desktop\\\u7F51\u7F16\u5927\u4F5C\u4E1A\\library-management-system -\u5F00\u53D1\u4E2D\\LMSPROJECT\\lmsproject\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EEF49DD0-4E53-4984-A1BD-4A80E4FBD6CB}|LMSProject\\LMSProject.csproj|D:\\OneDrive - Henan\\new_code\\VS\\homework\\C-HomeWork\\LMSPROJECT\\lmsproject\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EEF49DD0-4E53-4984-A1BD-4A80E4FBD6CB}|LMSProject\\LMSProject.csproj|solutionrelative:lmsproject\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EEF49DD0-4E53-4984-A1BD-4A80E4FBD6CB}|LMSProject\\LMSProject.csproj|C:\\Users\\lenovo\\Desktop\\\u7F51\u7F16\u5927\u4F5C\u4E1A\\library-management-system -\u5F00\u53D1\u4E2D\\LMSPROJECT\\lmsproject\\roundbuttoncs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{EEF49DD0-4E53-4984-A1BD-4A80E4FBD6CB}|LMSProject\\LMSProject.csproj|D:\\OneDrive - Henan\\new_code\\VS\\homework\\C-HomeWork\\LMSPROJECT\\lmsproject\\roundbuttoncs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{EEF49DD0-4E53-4984-A1BD-4A80E4FBD6CB}|LMSProject\\LMSProject.csproj|solutionrelative:lmsproject\\roundbuttoncs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EEF49DD0-4E53-4984-A1BD-4A80E4FBD6CB}|LMSProject\\LMSProject.csproj|C:\\Users\\lenovo\\Desktop\\\u7F51\u7F16\u5927\u4F5C\u4E1A\\library-management-system -\u5F00\u53D1\u4E2D\\LMSPROJECT\\lmsproject\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{EEF49DD0-4E53-4984-A1BD-4A80E4FBD6CB}|LMSProject\\LMSProject.csproj|D:\\OneDrive - Henan\\new_code\\VS\\homework\\C-HomeWork\\LMSPROJECT\\lmsproject\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{EEF49DD0-4E53-4984-A1BD-4A80E4FBD6CB}|LMSProject\\LMSProject.csproj|solutionrelative:lmsproject\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
@@ -138,91 +138,87 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 7,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Dashboard.cs [\u8BBE\u8BA1]",
-              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\\u7F51\u7F16\u5927\u4F5C\u4E1A\\library-management-system -\u5F00\u53D1\u4E2D\\LMSPROJECT\\LMSProject\\Dashboard.cs",
+              "DocumentMoniker": "D:\\OneDrive - Henan\\new_code\\VS\\homework\\C-HomeWork\\LMSPROJECT\\LMSProject\\Dashboard.cs",
               "RelativeDocumentMoniker": "LMSProject\\Dashboard.cs",
               "ToolTip": "C:\\Users\\lenovo\\Desktop\\\u7F51\u7F16\u5927\u4F5C\u4E1A\\library-management-system -\u5F00\u53D1\u4E2D\\LMSPROJECT\\LMSProject\\Dashboard.cs [\u8BBE\u8BA1]",
-              "RelativeToolTip": "LMSProject\\Dashboard.cs [\u8BBE\u8BA1]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-10T11:30:47.828Z",
-              "EditorCaption": " [\u8BBE\u8BA1]"
+              "WhenOpened": "2024-06-10T11:30:47.828Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "HomePage.cs [\u8BBE\u8BA1]",
-              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\\u7F51\u7F16\u5927\u4F5C\u4E1A\\library-management-system -\u5F00\u53D1\u4E2D\\LMSPROJECT\\LMSProject\\HomePage.cs",
+              "DocumentMoniker": "D:\\OneDrive - Henan\\new_code\\VS\\homework\\C-HomeWork\\LMSPROJECT\\LMSProject\\HomePage.cs",
               "RelativeDocumentMoniker": "LMSProject\\HomePage.cs",
               "ToolTip": "C:\\Users\\lenovo\\Desktop\\\u7F51\u7F16\u5927\u4F5C\u4E1A\\library-management-system -\u5F00\u53D1\u4E2D\\LMSPROJECT\\LMSProject\\HomePage.cs [\u8BBE\u8BA1]",
-              "RelativeToolTip": "LMSProject\\HomePage.cs [\u8BBE\u8BA1]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T15:27:50.891Z",
-              "EditorCaption": " [\u8BBE\u8BA1]"
+              "WhenOpened": "2024-06-05T15:27:50.891Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "HomePage.cs",
-              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\\u7F51\u7F16\u5927\u4F5C\u4E1A\\library-management-system -\u5F00\u53D1\u4E2D\\LMSPROJECT\\LMSProject\\HomePage.cs",
+              "DocumentMoniker": "D:\\OneDrive - Henan\\new_code\\VS\\homework\\C-HomeWork\\LMSPROJECT\\LMSProject\\HomePage.cs",
               "RelativeDocumentMoniker": "LMSProject\\HomePage.cs",
-              "ToolTip": "C:\\Users\\lenovo\\Desktop\\\u7F51\u7F16\u5927\u4F5C\u4E1A\\library-management-system -\u5F00\u53D1\u4E2D\\LMSPROJECT\\LMSProject\\HomePage.cs",
+              "ToolTip": "D:\\OneDrive - Henan\\new_code\\VS\\homework\\C-HomeWork\\LMSPROJECT\\LMSProject\\HomePage.cs",
               "RelativeToolTip": "LMSProject\\HomePage.cs",
               "ViewState": "AQIAAB8AAAAAAAAAAAA0wDcAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T15:28:06.455Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-05T15:28:06.455Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Form1.cs [\u8BBE\u8BA1]",
-              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\\u7F51\u7F16\u5927\u4F5C\u4E1A\\library-management-system -\u5F00\u53D1\u4E2D\\LMSPROJECT\\Server\\Form1.cs",
+              "DocumentMoniker": "D:\\OneDrive - Henan\\new_code\\VS\\homework\\C-HomeWork\\LMSPROJECT\\Server\\Form1.cs",
               "RelativeDocumentMoniker": "Server\\Form1.cs",
               "ToolTip": "C:\\Users\\lenovo\\Desktop\\\u7F51\u7F16\u5927\u4F5C\u4E1A\\library-management-system -\u5F00\u53D1\u4E2D\\LMSPROJECT\\Server\\Form1.cs [\u8BBE\u8BA1]",
-              "RelativeToolTip": "Server\\Form1.cs [\u8BBE\u8BA1]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-10T11:07:17.053Z",
-              "EditorCaption": " [\u8BBE\u8BA1]"
+              "WhenOpened": "2024-06-10T11:07:17.053Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\\u7F51\u7F16\u5927\u4F5C\u4E1A\\library-management-system -\u5F00\u53D1\u4E2D\\LMSPROJECT\\Server\\Form1.cs",
+              "DocumentMoniker": "D:\\OneDrive - Henan\\new_code\\VS\\homework\\C-HomeWork\\LMSPROJECT\\Server\\Form1.cs",
               "RelativeDocumentMoniker": "Server\\Form1.cs",
-              "ToolTip": "C:\\Users\\lenovo\\Desktop\\\u7F51\u7F16\u5927\u4F5C\u4E1A\\library-management-system -\u5F00\u53D1\u4E2D\\LMSPROJECT\\Server\\Form1.cs",
+              "ToolTip": "D:\\OneDrive - Henan\\new_code\\VS\\homework\\C-HomeWork\\LMSPROJECT\\Server\\Form1.cs",
               "RelativeToolTip": "Server\\Form1.cs",
               "ViewState": "AQIAABwAAAAAAAAAAAAswEMAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-10T11:07:24.024Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-10T11:07:24.024Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Login.cs [\u8BBE\u8BA1]",
-              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\\u7F51\u7F16\u5927\u4F5C\u4E1A\\library-management-system -\u5F00\u53D1\u4E2D\\LMSPROJECT\\LMSProject\\Login.cs",
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "D:\\OneDrive - Henan\\new_code\\VS\\homework\\C-HomeWork\\LMSPROJECT\\LMSProject\\Login.cs",
               "RelativeDocumentMoniker": "LMSProject\\Login.cs",
-              "ToolTip": "C:\\Users\\lenovo\\Desktop\\\u7F51\u7F16\u5927\u4F5C\u4E1A\\library-management-system -\u5F00\u53D1\u4E2D\\LMSPROJECT\\LMSProject\\Login.cs [\u8BBE\u8BA1]*",
-              "RelativeToolTip": "LMSProject\\Login.cs [\u8BBE\u8BA1]*",
+              "ToolTip": "D:\\OneDrive - Henan\\new_code\\VS\\homework\\C-HomeWork\\LMSPROJECT\\LMSProject\\Login.cs [Design]*",
+              "RelativeToolTip": "LMSProject\\Login.cs [Design]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-10T11:01:22.437Z",
-              "EditorCaption": " [\u8BBE\u8BA1]"
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Login.cs",
-              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\\u7F51\u7F16\u5927\u4F5C\u4E1A\\library-management-system -\u5F00\u53D1\u4E2D\\LMSPROJECT\\LMSProject\\Login.cs",
+              "DocumentMoniker": "D:\\OneDrive - Henan\\new_code\\VS\\homework\\C-HomeWork\\LMSPROJECT\\LMSProject\\Login.cs",
               "RelativeDocumentMoniker": "LMSProject\\Login.cs",
-              "ToolTip": "C:\\Users\\lenovo\\Desktop\\\u7F51\u7F16\u5927\u4F5C\u4E1A\\library-management-system -\u5F00\u53D1\u4E2D\\LMSPROJECT\\LMSProject\\Login.cs*",
+              "ToolTip": "D:\\OneDrive - Henan\\new_code\\VS\\homework\\C-HomeWork\\LMSPROJECT\\LMSProject\\Login.cs*",
               "RelativeToolTip": "LMSProject\\Login.cs*",
-              "ViewState": "AQIAACoAAAAAAAAAAAAwwE0AAAAJAAAA",
+              "ViewState": "AQIAACoAAAAAAAAAAAAwwE8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-10T11:01:24.073Z",
               "EditorCaption": ""
@@ -231,318 +227,277 @@
               "$type": "Document",
               "DocumentIndex": 14,
               "Title": "ViewBook.cs [\u8BBE\u8BA1]",
-              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\\u7F51\u7F16\u5927\u4F5C\u4E1A\\library-management-system -\u5F00\u53D1\u4E2D\\LMSPROJECT\\LMSProject\\ViewBook.cs",
+              "DocumentMoniker": "D:\\OneDrive - Henan\\new_code\\VS\\homework\\C-HomeWork\\LMSPROJECT\\LMSProject\\ViewBook.cs",
               "RelativeDocumentMoniker": "LMSProject\\ViewBook.cs",
               "ToolTip": "C:\\Users\\lenovo\\Desktop\\\u7F51\u7F16\u5927\u4F5C\u4E1A\\library-management-system -\u5F00\u53D1\u4E2D\\LMSPROJECT\\LMSProject\\ViewBook.cs [\u8BBE\u8BA1]",
-              "RelativeToolTip": "LMSProject\\ViewBook.cs [\u8BBE\u8BA1]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-10T13:32:06.589Z",
-              "EditorCaption": " [\u8BBE\u8BA1]"
+              "WhenOpened": "2024-06-10T13:32:06.589Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "AddBook.cs [\u8BBE\u8BA1]",
-              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\\u7F51\u7F16\u5927\u4F5C\u4E1A\\library-management-system -\u5F00\u53D1\u4E2D\\LMSPROJECT\\LMSProject\\AddBook.cs",
+              "DocumentMoniker": "D:\\OneDrive - Henan\\new_code\\VS\\homework\\C-HomeWork\\LMSPROJECT\\LMSProject\\AddBook.cs",
               "RelativeDocumentMoniker": "LMSProject\\AddBook.cs",
               "ToolTip": "C:\\Users\\lenovo\\Desktop\\\u7F51\u7F16\u5927\u4F5C\u4E1A\\library-management-system -\u5F00\u53D1\u4E2D\\LMSPROJECT\\LMSProject\\AddBook.cs [\u8BBE\u8BA1]",
-              "RelativeToolTip": "LMSProject\\AddBook.cs [\u8BBE\u8BA1]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T15:27:46.367Z",
-              "EditorCaption": " [\u8BBE\u8BA1]"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+              "WhenOpened": "2024-06-05T15:27:46.367Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "Dashboard.cs",
-              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\\u7F51\u7F16\u5927\u4F5C\u4E1A\\library-management-system -\u5F00\u53D1\u4E2D\\LMSPROJECT\\LMSProject\\Dashboard.cs",
+              "DocumentMoniker": "D:\\OneDrive - Henan\\new_code\\VS\\homework\\C-HomeWork\\LMSPROJECT\\LMSProject\\Dashboard.cs",
               "RelativeDocumentMoniker": "LMSProject\\Dashboard.cs",
-              "ToolTip": "C:\\Users\\lenovo\\Desktop\\\u7F51\u7F16\u5927\u4F5C\u4E1A\\library-management-system -\u5F00\u53D1\u4E2D\\LMSPROJECT\\LMSProject\\Dashboard.cs",
+              "ToolTip": "D:\\OneDrive - Henan\\new_code\\VS\\homework\\C-HomeWork\\LMSPROJECT\\LMSProject\\Dashboard.cs",
               "RelativeToolTip": "LMSProject\\Dashboard.cs",
               "ViewState": "AQIAAGYAAAAAAAAAAAAWwDYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-10T11:30:49.749Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-10T11:30:49.749Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "AddStudent.cs",
-              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\\u7F51\u7F16\u5927\u4F5C\u4E1A\\library-management-system -\u5F00\u53D1\u4E2D\\LMSPROJECT\\LMSProject\\AddStudent.cs",
+              "DocumentMoniker": "D:\\OneDrive - Henan\\new_code\\VS\\homework\\C-HomeWork\\LMSPROJECT\\LMSProject\\AddStudent.cs",
               "RelativeDocumentMoniker": "LMSProject\\AddStudent.cs",
-              "ToolTip": "C:\\Users\\lenovo\\Desktop\\\u7F51\u7F16\u5927\u4F5C\u4E1A\\library-management-system -\u5F00\u53D1\u4E2D\\LMSPROJECT\\LMSProject\\AddStudent.cs",
+              "ToolTip": "D:\\OneDrive - Henan\\new_code\\VS\\homework\\C-HomeWork\\LMSPROJECT\\LMSProject\\AddStudent.cs",
               "RelativeToolTip": "LMSProject\\AddStudent.cs",
               "ViewState": "AQIAAA8AAAAAAAAAAAAAAB8AAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-10T12:30:48.847Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-10T12:30:48.847Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 17,
               "Title": "StudentDashboard.cs [\u8BBE\u8BA1]",
-              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\\u7F51\u7F16\u5927\u4F5C\u4E1A\\library-management-system -\u5F00\u53D1\u4E2D\\LMSPROJECT\\LMSProject\\StudentDashboard.cs",
+              "DocumentMoniker": "D:\\OneDrive - Henan\\new_code\\VS\\homework\\C-HomeWork\\LMSPROJECT\\LMSProject\\StudentDashboard.cs",
               "RelativeDocumentMoniker": "LMSProject\\StudentDashboard.cs",
               "ToolTip": "C:\\Users\\lenovo\\Desktop\\\u7F51\u7F16\u5927\u4F5C\u4E1A\\library-management-system -\u5F00\u53D1\u4E2D\\LMSPROJECT\\LMSProject\\StudentDashboard.cs [\u8BBE\u8BA1]",
-              "RelativeToolTip": "LMSProject\\StudentDashboard.cs [\u8BBE\u8BA1]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-10T13:31:54.212Z",
-              "EditorCaption": " [\u8BBE\u8BA1]"
+              "WhenOpened": "2024-06-10T13:31:54.212Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "AddStudent.cs [\u8BBE\u8BA1]",
-              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\\u7F51\u7F16\u5927\u4F5C\u4E1A\\library-management-system -\u5F00\u53D1\u4E2D\\LMSPROJECT\\LMSProject\\AddStudent.cs",
+              "DocumentMoniker": "D:\\OneDrive - Henan\\new_code\\VS\\homework\\C-HomeWork\\LMSPROJECT\\LMSProject\\AddStudent.cs",
               "RelativeDocumentMoniker": "LMSProject\\AddStudent.cs",
               "ToolTip": "C:\\Users\\lenovo\\Desktop\\\u7F51\u7F16\u5927\u4F5C\u4E1A\\library-management-system -\u5F00\u53D1\u4E2D\\LMSPROJECT\\LMSProject\\AddStudent.cs [\u8BBE\u8BA1]",
-              "RelativeToolTip": "LMSProject\\AddStudent.cs [\u8BBE\u8BA1]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-10T12:30:47.067Z",
-              "EditorCaption": " [\u8BBE\u8BA1]"
+              "WhenOpened": "2024-06-10T12:30:47.067Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "ReturnBook.cs [\u8BBE\u8BA1]",
-              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\\u7F51\u7F16\u5927\u4F5C\u4E1A\\library-management-system -\u5F00\u53D1\u4E2D\\LMSPROJECT\\LMSProject\\ReturnBook.cs",
+              "DocumentMoniker": "D:\\OneDrive - Henan\\new_code\\VS\\homework\\C-HomeWork\\LMSPROJECT\\LMSProject\\ReturnBook.cs",
               "RelativeDocumentMoniker": "LMSProject\\ReturnBook.cs",
               "ToolTip": "C:\\Users\\lenovo\\Desktop\\\u7F51\u7F16\u5927\u4F5C\u4E1A\\library-management-system -\u5F00\u53D1\u4E2D\\LMSPROJECT\\LMSProject\\ReturnBook.cs [\u8BBE\u8BA1]",
-              "RelativeToolTip": "LMSProject\\ReturnBook.cs [\u8BBE\u8BA1]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-10T12:44:03.13Z",
-              "EditorCaption": " [\u8BBE\u8BA1]"
+              "WhenOpened": "2024-06-10T12:44:03.13Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "ReturnBook.cs",
-              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\\u7F51\u7F16\u5927\u4F5C\u4E1A\\library-management-system -\u5F00\u53D1\u4E2D\\LMSPROJECT\\LMSProject\\ReturnBook.cs",
+              "DocumentMoniker": "D:\\OneDrive - Henan\\new_code\\VS\\homework\\C-HomeWork\\LMSPROJECT\\LMSProject\\ReturnBook.cs",
               "RelativeDocumentMoniker": "LMSProject\\ReturnBook.cs",
-              "ToolTip": "C:\\Users\\lenovo\\Desktop\\\u7F51\u7F16\u5927\u4F5C\u4E1A\\library-management-system -\u5F00\u53D1\u4E2D\\LMSPROJECT\\LMSProject\\ReturnBook.cs",
+              "ToolTip": "D:\\OneDrive - Henan\\new_code\\VS\\homework\\C-HomeWork\\LMSPROJECT\\LMSProject\\ReturnBook.cs",
               "RelativeToolTip": "LMSProject\\ReturnBook.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAIcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-10T13:33:31.934Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-10T13:33:31.934Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "AddBook.cs",
-              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\\u7F51\u7F16\u5927\u4F5C\u4E1A\\library-management-system -\u5F00\u53D1\u4E2D\\LMSPROJECT\\LMSProject\\AddBook.cs",
+              "DocumentMoniker": "D:\\OneDrive - Henan\\new_code\\VS\\homework\\C-HomeWork\\LMSPROJECT\\LMSProject\\AddBook.cs",
               "RelativeDocumentMoniker": "LMSProject\\AddBook.cs",
-              "ToolTip": "C:\\Users\\lenovo\\Desktop\\\u7F51\u7F16\u5927\u4F5C\u4E1A\\library-management-system -\u5F00\u53D1\u4E2D\\LMSPROJECT\\LMSProject\\AddBook.cs",
+              "ToolTip": "D:\\OneDrive - Henan\\new_code\\VS\\homework\\C-HomeWork\\LMSPROJECT\\LMSProject\\AddBook.cs",
               "RelativeToolTip": "LMSProject\\AddBook.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAB0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-08T13:48:46.392Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-08T13:48:46.392Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
               "Title": "ViewStudent.cs [\u8BBE\u8BA1]",
-              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\\u7F51\u7F16\u5927\u4F5C\u4E1A\\library-management-system -\u5F00\u53D1\u4E2D\\LMSPROJECT\\LMSProject\\ViewStudent.cs",
+              "DocumentMoniker": "D:\\OneDrive - Henan\\new_code\\VS\\homework\\C-HomeWork\\LMSPROJECT\\LMSProject\\ViewStudent.cs",
               "RelativeDocumentMoniker": "LMSProject\\ViewStudent.cs",
               "ToolTip": "C:\\Users\\lenovo\\Desktop\\\u7F51\u7F16\u5927\u4F5C\u4E1A\\library-management-system -\u5F00\u53D1\u4E2D\\LMSPROJECT\\LMSProject\\ViewStudent.cs [\u8BBE\u8BA1]",
-              "RelativeToolTip": "LMSProject\\ViewStudent.cs [\u8BBE\u8BA1]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-10T13:32:04.673Z",
-              "EditorCaption": " [\u8BBE\u8BA1]"
+              "WhenOpened": "2024-06-10T13:32:04.673Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 19,
               "Title": "BookSearch.cs [\u8BBE\u8BA1]",
-              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\\u7F51\u7F16\u5927\u4F5C\u4E1A\\library-management-system -\u5F00\u53D1\u4E2D\\LMSPROJECT\\LMSProject\\BookSearch.cs",
+              "DocumentMoniker": "D:\\OneDrive - Henan\\new_code\\VS\\homework\\C-HomeWork\\LMSPROJECT\\LMSProject\\BookSearch.cs",
               "RelativeDocumentMoniker": "LMSProject\\BookSearch.cs",
               "ToolTip": "C:\\Users\\lenovo\\Desktop\\\u7F51\u7F16\u5927\u4F5C\u4E1A\\library-management-system -\u5F00\u53D1\u4E2D\\LMSPROJECT\\LMSProject\\BookSearch.cs [\u8BBE\u8BA1]",
-              "RelativeToolTip": "LMSProject\\BookSearch.cs [\u8BBE\u8BA1]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T15:25:50.873Z",
-              "EditorCaption": " [\u8BBE\u8BA1]"
+              "WhenOpened": "2024-06-05T15:25:50.873Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
               "Title": "StudentLogin.cs [\u8BBE\u8BA1]",
-              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\\u7F51\u7F16\u5927\u4F5C\u4E1A\\library-management-system -\u5F00\u53D1\u4E2D\\LMSPROJECT\\LMSProject\\StudentLogin.cs",
+              "DocumentMoniker": "D:\\OneDrive - Henan\\new_code\\VS\\homework\\C-HomeWork\\LMSPROJECT\\LMSProject\\StudentLogin.cs",
               "RelativeDocumentMoniker": "LMSProject\\StudentLogin.cs",
               "ToolTip": "C:\\Users\\lenovo\\Desktop\\\u7F51\u7F16\u5927\u4F5C\u4E1A\\library-management-system -\u5F00\u53D1\u4E2D\\LMSPROJECT\\LMSProject\\StudentLogin.cs [\u8BBE\u8BA1]",
-              "RelativeToolTip": "LMSProject\\StudentLogin.cs [\u8BBE\u8BA1]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T15:29:46.643Z",
-              "EditorCaption": " [\u8BBE\u8BA1]"
+              "WhenOpened": "2024-06-05T15:29:46.643Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 18,
               "Title": "BookSearch.cs",
-              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\\u7F51\u7F16\u5927\u4F5C\u4E1A\\library-management-system -\u5F00\u53D1\u4E2D\\LMSPROJECT\\LMSProject\\BookSearch.cs",
+              "DocumentMoniker": "D:\\OneDrive - Henan\\new_code\\VS\\homework\\C-HomeWork\\LMSPROJECT\\LMSProject\\BookSearch.cs",
               "RelativeDocumentMoniker": "LMSProject\\BookSearch.cs",
-              "ToolTip": "C:\\Users\\lenovo\\Desktop\\\u7F51\u7F16\u5927\u4F5C\u4E1A\\library-management-system -\u5F00\u53D1\u4E2D\\LMSPROJECT\\LMSProject\\BookSearch.cs",
+              "ToolTip": "D:\\OneDrive - Henan\\new_code\\VS\\homework\\C-HomeWork\\LMSPROJECT\\LMSProject\\BookSearch.cs",
               "RelativeToolTip": "LMSProject\\BookSearch.cs",
               "ViewState": "AQIAABAAAAAAAAAAAAA0wAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-10T12:30:54.488Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-10T12:30:54.488Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 20,
               "Title": "IssueBook.cs",
-              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\\u7F51\u7F16\u5927\u4F5C\u4E1A\\library-management-system -\u5F00\u53D1\u4E2D\\LMSPROJECT\\LMSProject\\IssueBook.cs",
+              "DocumentMoniker": "D:\\OneDrive - Henan\\new_code\\VS\\homework\\C-HomeWork\\LMSPROJECT\\LMSProject\\IssueBook.cs",
               "RelativeDocumentMoniker": "LMSProject\\IssueBook.cs",
-              "ToolTip": "C:\\Users\\lenovo\\Desktop\\\u7F51\u7F16\u5927\u4F5C\u4E1A\\library-management-system -\u5F00\u53D1\u4E2D\\LMSPROJECT\\LMSProject\\IssueBook.cs",
+              "ToolTip": "D:\\OneDrive - Henan\\new_code\\VS\\homework\\C-HomeWork\\LMSPROJECT\\LMSProject\\IssueBook.cs",
               "RelativeToolTip": "LMSProject\\IssueBook.cs",
               "ViewState": "AQIAADAAAAAAAAAAAAAwwKYAAACeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-10T13:10:59.505Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-10T13:10:59.505Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 21,
               "Title": "IssueBook.cs [\u8BBE\u8BA1]",
-              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\\u7F51\u7F16\u5927\u4F5C\u4E1A\\library-management-system -\u5F00\u53D1\u4E2D\\LMSPROJECT\\LMSProject\\IssueBook.cs",
+              "DocumentMoniker": "D:\\OneDrive - Henan\\new_code\\VS\\homework\\C-HomeWork\\LMSPROJECT\\LMSProject\\IssueBook.cs",
               "RelativeDocumentMoniker": "LMSProject\\IssueBook.cs",
               "ToolTip": "C:\\Users\\lenovo\\Desktop\\\u7F51\u7F16\u5927\u4F5C\u4E1A\\library-management-system -\u5F00\u53D1\u4E2D\\LMSPROJECT\\LMSProject\\IssueBook.cs [\u8BBE\u8BA1]",
-              "RelativeToolTip": "LMSProject\\IssueBook.cs [\u8BBE\u8BA1]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-10T13:10:50.704Z",
-              "EditorCaption": " [\u8BBE\u8BA1]"
+              "WhenOpened": "2024-06-10T13:10:50.704Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 22,
               "Title": "CompleteBookDetail.cs [\u8BBE\u8BA1]",
-              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\\u7F51\u7F16\u5927\u4F5C\u4E1A\\library-management-system -\u5F00\u53D1\u4E2D\\LMSPROJECT\\LMSProject\\CompleteBookDetail.cs",
+              "DocumentMoniker": "D:\\OneDrive - Henan\\new_code\\VS\\homework\\C-HomeWork\\LMSPROJECT\\LMSProject\\CompleteBookDetail.cs",
               "RelativeDocumentMoniker": "LMSProject\\CompleteBookDetail.cs",
               "ToolTip": "C:\\Users\\lenovo\\Desktop\\\u7F51\u7F16\u5927\u4F5C\u4E1A\\library-management-system -\u5F00\u53D1\u4E2D\\LMSPROJECT\\LMSProject\\CompleteBookDetail.cs [\u8BBE\u8BA1]",
-              "RelativeToolTip": "LMSProject\\CompleteBookDetail.cs [\u8BBE\u8BA1]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-10T13:10:44.752Z",
-              "EditorCaption": " [\u8BBE\u8BA1]"
+              "WhenOpened": "2024-06-10T13:10:44.752Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 23,
               "Title": "CircularPicture.cs [\u8BBE\u8BA1]",
-              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\\u7F51\u7F16\u5927\u4F5C\u4E1A\\library-management-system -\u5F00\u53D1\u4E2D\\LMSPROJECT\\LMSProject\\CircularPicture.cs",
+              "DocumentMoniker": "D:\\OneDrive - Henan\\new_code\\VS\\homework\\C-HomeWork\\LMSPROJECT\\LMSProject\\CircularPicture.cs",
               "RelativeDocumentMoniker": "LMSProject\\CircularPicture.cs",
               "ToolTip": "C:\\Users\\lenovo\\Desktop\\\u7F51\u7F16\u5927\u4F5C\u4E1A\\library-management-system -\u5F00\u53D1\u4E2D\\LMSPROJECT\\LMSProject\\CircularPicture.cs [\u8BBE\u8BA1]",
-              "RelativeToolTip": "LMSProject\\CircularPicture.cs [\u8BBE\u8BA1]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-10T13:10:42.692Z",
-              "EditorCaption": " [\u8BBE\u8BA1]"
+              "WhenOpened": "2024-06-10T13:10:42.692Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 24,
               "Title": "Dashboard.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\\u7F51\u7F16\u5927\u4F5C\u4E1A\\library-management-system -\u5F00\u53D1\u4E2D\\LMSPROJECT\\LMSProject\\Dashboard.Designer.cs",
+              "DocumentMoniker": "D:\\OneDrive - Henan\\new_code\\VS\\homework\\C-HomeWork\\LMSPROJECT\\LMSProject\\Dashboard.Designer.cs",
               "RelativeDocumentMoniker": "LMSProject\\Dashboard.Designer.cs",
-              "ToolTip": "C:\\Users\\lenovo\\Desktop\\\u7F51\u7F16\u5927\u4F5C\u4E1A\\library-management-system -\u5F00\u53D1\u4E2D\\LMSPROJECT\\LMSProject\\Dashboard.Designer.cs",
+              "ToolTip": "D:\\OneDrive - Henan\\new_code\\VS\\homework\\C-HomeWork\\LMSPROJECT\\LMSProject\\Dashboard.Designer.cs",
               "RelativeToolTip": "LMSProject\\Dashboard.Designer.cs",
               "ViewState": "AQIAAHoCAAAAAAAAAAAjwBwAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-10T12:56:24.071Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-10T12:56:24.071Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 25,
               "Title": "StudentLogin.cs",
-              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\\u7F51\u7F16\u5927\u4F5C\u4E1A\\library-management-system -\u5F00\u53D1\u4E2D\\LMSPROJECT\\LMSProject\\StudentLogin.cs",
+              "DocumentMoniker": "D:\\OneDrive - Henan\\new_code\\VS\\homework\\C-HomeWork\\LMSPROJECT\\LMSProject\\StudentLogin.cs",
               "RelativeDocumentMoniker": "LMSProject\\StudentLogin.cs",
-              "ToolTip": "C:\\Users\\lenovo\\Desktop\\\u7F51\u7F16\u5927\u4F5C\u4E1A\\library-management-system -\u5F00\u53D1\u4E2D\\LMSPROJECT\\LMSProject\\StudentLogin.cs",
+              "ToolTip": "D:\\OneDrive - Henan\\new_code\\VS\\homework\\C-HomeWork\\LMSPROJECT\\LMSProject\\StudentLogin.cs",
               "RelativeToolTip": "LMSProject\\StudentLogin.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T12:19:07.719Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-05T12:19:07.719Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 26,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\\u7F51\u7F16\u5927\u4F5C\u4E1A\\library-management-system -\u5F00\u53D1\u4E2D\\LMSPROJECT\\Server\\Program.cs",
+              "DocumentMoniker": "D:\\OneDrive - Henan\\new_code\\VS\\homework\\C-HomeWork\\LMSPROJECT\\Server\\Program.cs",
               "RelativeDocumentMoniker": "Server\\Program.cs",
-              "ToolTip": "C:\\Users\\lenovo\\Desktop\\\u7F51\u7F16\u5927\u4F5C\u4E1A\\library-management-system -\u5F00\u53D1\u4E2D\\LMSPROJECT\\Server\\Program.cs",
+              "ToolTip": "D:\\OneDrive - Henan\\new_code\\VS\\homework\\C-HomeWork\\LMSPROJECT\\Server\\Program.cs",
               "RelativeToolTip": "Server\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-10T11:40:50.576Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-10T11:40:50.576Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 27,
               "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\\u7F51\u7F16\u5927\u4F5C\u4E1A\\library-management-system -\u5F00\u53D1\u4E2D\\LMSPROJECT\\Server\\Form1.Designer.cs",
+              "DocumentMoniker": "D:\\OneDrive - Henan\\new_code\\VS\\homework\\C-HomeWork\\LMSPROJECT\\Server\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "Server\\Form1.Designer.cs",
-              "ToolTip": "C:\\Users\\lenovo\\Desktop\\\u7F51\u7F16\u5927\u4F5C\u4E1A\\library-management-system -\u5F00\u53D1\u4E2D\\LMSPROJECT\\Server\\Form1.Designer.cs",
+              "ToolTip": "D:\\OneDrive - Henan\\new_code\\VS\\homework\\C-HomeWork\\LMSPROJECT\\Server\\Form1.Designer.cs",
               "RelativeToolTip": "Server\\Form1.Designer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-10T11:37:09.371Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-10T11:37:09.371Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 28,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\\u7F51\u7F16\u5927\u4F5C\u4E1A\\library-management-system -\u5F00\u53D1\u4E2D\\LMSPROJECT\\LMSProject\\Program.cs",
+              "DocumentMoniker": "D:\\OneDrive - Henan\\new_code\\VS\\homework\\C-HomeWork\\LMSPROJECT\\LMSProject\\Program.cs",
               "RelativeDocumentMoniker": "LMSProject\\Program.cs",
-              "ToolTip": "C:\\Users\\lenovo\\Desktop\\\u7F51\u7F16\u5927\u4F5C\u4E1A\\library-management-system -\u5F00\u53D1\u4E2D\\LMSPROJECT\\LMSProject\\Program.cs",
+              "ToolTip": "D:\\OneDrive - Henan\\new_code\\VS\\homework\\C-HomeWork\\LMSPROJECT\\LMSProject\\Program.cs",
               "RelativeToolTip": "LMSProject\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T15:26:19.165Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-05T15:26:19.165Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 29,
               "Title": "Login.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\\u7F51\u7F16\u5927\u4F5C\u4E1A\\library-management-system -\u5F00\u53D1\u4E2D\\LMSPROJECT\\LMSProject\\Login.Designer.cs",
+              "DocumentMoniker": "D:\\OneDrive - Henan\\new_code\\VS\\homework\\C-HomeWork\\LMSPROJECT\\LMSProject\\Login.Designer.cs",
               "RelativeDocumentMoniker": "LMSProject\\Login.Designer.cs",
-              "ToolTip": "C:\\Users\\lenovo\\Desktop\\\u7F51\u7F16\u5927\u4F5C\u4E1A\\library-management-system -\u5F00\u53D1\u4E2D\\LMSPROJECT\\LMSProject\\Login.Designer.cs",
+              "ToolTip": "D:\\OneDrive - Henan\\new_code\\VS\\homework\\C-HomeWork\\LMSPROJECT\\LMSProject\\Login.Designer.cs",
               "RelativeToolTip": "LMSProject\\Login.Designer.cs",
               "ViewState": "AQIAAAIAAAAAAAAAAAA4wAQAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-08T13:49:22.19Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-08T13:49:22.19Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 30,
               "Title": "RoundButtoncs.cs [\u8BBE\u8BA1]",
-              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\\u7F51\u7F16\u5927\u4F5C\u4E1A\\library-management-system -\u5F00\u53D1\u4E2D\\LMSPROJECT\\LMSProject\\RoundButtoncs.cs",
+              "DocumentMoniker": "D:\\OneDrive - Henan\\new_code\\VS\\homework\\C-HomeWork\\LMSPROJECT\\LMSProject\\RoundButtoncs.cs",
               "RelativeDocumentMoniker": "LMSProject\\RoundButtoncs.cs",
               "ToolTip": "C:\\Users\\lenovo\\Desktop\\\u7F51\u7F16\u5927\u4F5C\u4E1A\\library-management-system -\u5F00\u53D1\u4E2D\\LMSPROJECT\\LMSProject\\RoundButtoncs.cs [\u8BBE\u8BA1]",
-              "RelativeToolTip": "LMSProject\\RoundButtoncs.cs [\u8BBE\u8BA1]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T15:29:45.501Z",
-              "EditorCaption": " [\u8BBE\u8BA1]"
+              "WhenOpened": "2024-06-05T15:29:45.501Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 31,
               "Title": "App.config",
-              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\\u7F51\u7F16\u5927\u4F5C\u4E1A\\library-management-system -\u5F00\u53D1\u4E2D\\LMSPROJECT\\LMSProject\\App.config",
+              "DocumentMoniker": "D:\\OneDrive - Henan\\new_code\\VS\\homework\\C-HomeWork\\LMSPROJECT\\LMSProject\\App.config",
               "RelativeDocumentMoniker": "LMSProject\\App.config",
-              "ToolTip": "C:\\Users\\lenovo\\Desktop\\\u7F51\u7F16\u5927\u4F5C\u4E1A\\library-management-system -\u5F00\u53D1\u4E2D\\LMSPROJECT\\LMSProject\\App.config",
+              "ToolTip": "D:\\OneDrive - Henan\\new_code\\VS\\homework\\C-HomeWork\\LMSPROJECT\\LMSProject\\App.config",
               "RelativeToolTip": "LMSProject\\App.config",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-06-05T15:25:46.677Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-05T15:25:46.677Z"
             }
           ]
         }

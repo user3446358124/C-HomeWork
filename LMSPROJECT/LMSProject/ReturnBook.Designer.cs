@@ -86,9 +86,9 @@
             this.panel5.Controls.Add(this.panel7);
             this.panel5.Controls.Add(this.txtStNumber);
             this.panel5.Controls.Add(this.circularPicture3);
-            this.panel5.Location = new System.Drawing.Point(43, 169);
+            this.panel5.Location = new System.Drawing.Point(43, 156);
             this.panel5.Name = "panel5";
-            this.panel5.Size = new System.Drawing.Size(262, 348);
+            this.panel5.Size = new System.Drawing.Size(262, 321);
             this.panel5.TabIndex = 53;
             this.panel5.Paint += new System.Windows.Forms.PaintEventHandler(this.panel5_Paint);
             // 
@@ -97,7 +97,7 @@
             this.btnStRefresh.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.btnStRefresh.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(40)))), ((int)(((byte)(103)))), ((int)(((byte)(178)))));
             this.btnStRefresh.BackgroundColor = System.Drawing.Color.FromArgb(((int)(((byte)(40)))), ((int)(((byte)(103)))), ((int)(((byte)(178)))));
-            this.btnStRefresh.ButtonText = "Refresh";
+            this.btnStRefresh.ButtonText = "刷新";
             this.btnStRefresh.CausesValidation = false;
             this.btnStRefresh.ErrorImageLeft = ((System.Drawing.Image)(resources.GetObject("btnStRefresh.ErrorImageLeft")));
             this.btnStRefresh.ErrorImageRight = ((System.Drawing.Image)(resources.GetObject("btnStRefresh.ErrorImageRight")));
@@ -109,12 +109,12 @@
             this.btnStRefresh.ImageLeft = null;
             this.btnStRefresh.ImageRight = null;
             this.btnStRefresh.LeftPictureColor = System.Drawing.Color.Transparent;
-            this.btnStRefresh.Location = new System.Drawing.Point(75, 266);
+            this.btnStRefresh.Location = new System.Drawing.Point(75, 246);
             this.btnStRefresh.Name = "btnStRefresh";
             this.btnStRefresh.PaddingLeftPicture = new System.Windows.Forms.Padding(0);
             this.btnStRefresh.PaddingRightPicture = new System.Windows.Forms.Padding(0);
             this.btnStRefresh.RightPictureColor = System.Drawing.Color.Transparent;
-            this.btnStRefresh.Size = new System.Drawing.Size(97, 35);
+            this.btnStRefresh.Size = new System.Drawing.Size(92, 30);
             this.btnStRefresh.SizeModeLeft = System.Windows.Forms.PictureBoxSizeMode.Normal;
             this.btnStRefresh.SizeModeRight = System.Windows.Forms.PictureBoxSizeMode.CenterImage;
             this.btnStRefresh.TabIndex = 32;
@@ -125,7 +125,7 @@
             this.btnStSearch.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.btnStSearch.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(0)))));
             this.btnStSearch.BackgroundColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(0)))));
-            this.btnStSearch.ButtonText = "Search Student";
+            this.btnStSearch.ButtonText = "搜索";
             this.btnStSearch.CausesValidation = false;
             this.btnStSearch.ErrorImageLeft = ((System.Drawing.Image)(resources.GetObject("btnStSearch.ErrorImageLeft")));
             this.btnStSearch.ErrorImageRight = ((System.Drawing.Image)(resources.GetObject("btnStSearch.ErrorImageRight")));
@@ -137,12 +137,12 @@
             this.btnStSearch.ImageLeft = null;
             this.btnStSearch.ImageRight = null;
             this.btnStSearch.LeftPictureColor = System.Drawing.Color.Transparent;
-            this.btnStSearch.Location = new System.Drawing.Point(61, 216);
+            this.btnStSearch.Location = new System.Drawing.Point(75, 199);
             this.btnStSearch.Name = "btnStSearch";
             this.btnStSearch.PaddingLeftPicture = new System.Windows.Forms.Padding(0);
             this.btnStSearch.PaddingRightPicture = new System.Windows.Forms.Padding(0);
             this.btnStSearch.RightPictureColor = System.Drawing.Color.Transparent;
-            this.btnStSearch.Size = new System.Drawing.Size(132, 39);
+            this.btnStSearch.Size = new System.Drawing.Size(92, 41);
             this.btnStSearch.SizeModeLeft = System.Windows.Forms.PictureBoxSizeMode.Normal;
             this.btnStSearch.SizeModeRight = System.Windows.Forms.PictureBoxSizeMode.CenterImage;
             this.btnStSearch.TabIndex = 34;
@@ -153,16 +153,16 @@
             this.label5.AutoSize = true;
             this.label5.Font = new System.Drawing.Font("Calibri", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.label5.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(35)))), ((int)(((byte)(36)))), ((int)(((byte)(55)))));
-            this.label5.Location = new System.Drawing.Point(62, 154);
+            this.label5.Location = new System.Drawing.Point(99, 142);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(124, 19);
+            this.label5.Size = new System.Drawing.Size(41, 19);
             this.label5.TabIndex = 23;
-            this.label5.Text = "Student Number";
+            this.label5.Text = "学号";
             // 
             // panel7
             // 
             this.panel7.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(35)))), ((int)(((byte)(36)))), ((int)(((byte)(55)))));
-            this.panel7.Location = new System.Drawing.Point(37, 200);
+            this.panel7.Location = new System.Drawing.Point(37, 185);
             this.panel7.Name = "panel7";
             this.panel7.Size = new System.Drawing.Size(192, 2);
             this.panel7.TabIndex = 22;
@@ -171,7 +171,7 @@
             // 
             this.txtStNumber.Font = new System.Drawing.Font("Calibri", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.txtStNumber.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(35)))), ((int)(((byte)(36)))), ((int)(((byte)(55)))));
-            this.txtStNumber.Location = new System.Drawing.Point(37, 178);
+            this.txtStNumber.Location = new System.Drawing.Point(37, 164);
             this.txtStNumber.Name = "txtStNumber";
             this.txtStNumber.Size = new System.Drawing.Size(192, 23);
             this.txtStNumber.TabIndex = 21;
@@ -180,9 +180,9 @@
             // circularPicture3
             // 
             this.circularPicture3.Image = ((System.Drawing.Image)(resources.GetObject("circularPicture3.Image")));
-            this.circularPicture3.Location = new System.Drawing.Point(61, 20);
+            this.circularPicture3.Location = new System.Drawing.Point(61, 18);
             this.circularPicture3.Name = "circularPicture3";
-            this.circularPicture3.Size = new System.Drawing.Size(125, 112);
+            this.circularPicture3.Size = new System.Drawing.Size(125, 103);
             this.circularPicture3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.circularPicture3.TabIndex = 0;
             this.circularPicture3.TabStop = false;
@@ -198,7 +198,7 @@
             this.panel1.Dock = System.Windows.Forms.DockStyle.Top;
             this.panel1.Location = new System.Drawing.Point(0, 0);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(1035, 68);
+            this.panel1.Size = new System.Drawing.Size(1035, 63);
             this.panel1.TabIndex = 54;
             // 
             // pictureBox2
@@ -206,7 +206,7 @@
             this.pictureBox2.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox2.Image")));
             this.pictureBox2.Location = new System.Drawing.Point(3, 3);
             this.pictureBox2.Name = "pictureBox2";
-            this.pictureBox2.Size = new System.Drawing.Size(56, 55);
+            this.pictureBox2.Size = new System.Drawing.Size(56, 51);
             this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox2.TabIndex = 9;
             this.pictureBox2.TabStop = false;
@@ -216,26 +216,26 @@
             // 
             this.panel3.BackColor = System.Drawing.Color.White;
             this.panel3.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.panel3.Location = new System.Drawing.Point(-1, 64);
+            this.panel3.Location = new System.Drawing.Point(-1, 59);
             this.panel3.Name = "panel3";
-            this.panel3.Size = new System.Drawing.Size(722, 85);
+            this.panel3.Size = new System.Drawing.Size(722, 79);
             this.panel3.TabIndex = 7;
             // 
             // panel2
             // 
             this.panel2.BackColor = System.Drawing.Color.White;
             this.panel2.Controls.Add(this.label1);
-            this.panel2.Location = new System.Drawing.Point(-1, 64);
+            this.panel2.Location = new System.Drawing.Point(-1, 59);
             this.panel2.Name = "panel2";
-            this.panel2.Size = new System.Drawing.Size(722, 85);
+            this.panel2.Size = new System.Drawing.Size(722, 78);
             this.panel2.TabIndex = 5;
             // 
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(394, 39);
+            this.label1.Location = new System.Drawing.Point(394, 36);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(35, 13);
+            this.label1.Size = new System.Drawing.Size(41, 12);
             this.label1.TabIndex = 0;
             this.label1.Text = "label1";
             // 
@@ -245,7 +245,7 @@
             this.circularPicture1.Image = ((System.Drawing.Image)(resources.GetObject("circularPicture1.Image")));
             this.circularPicture1.Location = new System.Drawing.Point(992, 0);
             this.circularPicture1.Name = "circularPicture1";
-            this.circularPicture1.Size = new System.Drawing.Size(43, 68);
+            this.circularPicture1.Size = new System.Drawing.Size(43, 63);
             this.circularPicture1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.circularPicture1.TabIndex = 8;
             this.circularPicture1.TabStop = false;
@@ -256,19 +256,19 @@
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Calibri", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.label2.ForeColor = System.Drawing.Color.White;
-            this.label2.Location = new System.Drawing.Point(424, 20);
+            this.label2.Location = new System.Drawing.Point(460, 9);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(120, 26);
+            this.label2.Size = new System.Drawing.Size(58, 26);
             this.label2.TabIndex = 6;
-            this.label2.Text = "Return Book";
+            this.label2.Text = "借书";
             // 
             // dataGridView1
             // 
             this.dataGridView1.BackgroundColor = System.Drawing.SystemColors.GradientInactiveCaption;
             this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dataGridView1.Location = new System.Drawing.Point(332, 169);
+            this.dataGridView1.Location = new System.Drawing.Point(332, 156);
             this.dataGridView1.Name = "dataGridView1";
-            this.dataGridView1.Size = new System.Drawing.Size(691, 174);
+            this.dataGridView1.Size = new System.Drawing.Size(691, 161);
             this.dataGridView1.TabIndex = 56;
             this.dataGridView1.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView1_CellClick);
             // 
@@ -278,16 +278,16 @@
             this.label4.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(40)))), ((int)(((byte)(103)))), ((int)(((byte)(178)))));
             this.label4.Font = new System.Drawing.Font("Calibri", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.label4.ForeColor = System.Drawing.Color.White;
-            this.label4.Location = new System.Drawing.Point(94, 86);
+            this.label4.Location = new System.Drawing.Point(94, 73);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(117, 19);
+            this.label4.Size = new System.Drawing.Size(73, 19);
             this.label4.TabIndex = 60;
-            this.label4.Text = "Book Issue Date";
+            this.label4.Text = "借书日期";
             // 
             // panel12
             // 
             this.panel12.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(35)))), ((int)(((byte)(36)))), ((int)(((byte)(55)))));
-            this.panel12.Location = new System.Drawing.Point(239, 103);
+            this.panel12.Location = new System.Drawing.Point(239, 95);
             this.panel12.Name = "panel12";
             this.panel12.Size = new System.Drawing.Size(261, 2);
             this.panel12.TabIndex = 59;
@@ -298,25 +298,25 @@
             this.label10.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(40)))), ((int)(((byte)(103)))), ((int)(((byte)(178)))));
             this.label10.Font = new System.Drawing.Font("Calibri", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.label10.ForeColor = System.Drawing.Color.White;
-            this.label10.Location = new System.Drawing.Point(97, 39);
+            this.label10.Location = new System.Drawing.Point(97, 36);
             this.label10.Name = "label10";
-            this.label10.Size = new System.Drawing.Size(88, 19);
+            this.label10.Size = new System.Drawing.Size(41, 19);
             this.label10.TabIndex = 58;
-            this.label10.Text = "Book Name";
+            this.label10.Text = "书名";
             // 
             // panel13
             // 
             this.panel13.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(35)))), ((int)(((byte)(36)))), ((int)(((byte)(55)))));
-            this.panel13.Location = new System.Drawing.Point(239, 61);
+            this.panel13.Location = new System.Drawing.Point(239, 56);
             this.panel13.Name = "panel13";
             this.panel13.Size = new System.Drawing.Size(261, 2);
             this.panel13.TabIndex = 57;
             // 
             // returnDate
             // 
-            this.returnDate.Location = new System.Drawing.Point(239, 118);
+            this.returnDate.Location = new System.Drawing.Point(239, 109);
             this.returnDate.Name = "returnDate";
-            this.returnDate.Size = new System.Drawing.Size(261, 20);
+            this.returnDate.Size = new System.Drawing.Size(261, 21);
             this.returnDate.TabIndex = 65;
             // 
             // label3
@@ -325,16 +325,16 @@
             this.label3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(40)))), ((int)(((byte)(103)))), ((int)(((byte)(178)))));
             this.label3.Font = new System.Drawing.Font("Calibri", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.label3.ForeColor = System.Drawing.Color.White;
-            this.label3.Location = new System.Drawing.Point(94, 122);
+            this.label3.Location = new System.Drawing.Point(94, 113);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(131, 19);
+            this.label3.Size = new System.Drawing.Size(73, 19);
             this.label3.TabIndex = 64;
-            this.label3.Text = "Book Return Date";
+            this.label3.Text = "归还时间";
             // 
             // panel6
             // 
             this.panel6.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(35)))), ((int)(((byte)(36)))), ((int)(((byte)(55)))));
-            this.panel6.Location = new System.Drawing.Point(239, 139);
+            this.panel6.Location = new System.Drawing.Point(239, 128);
             this.panel6.Name = "panel6";
             this.panel6.Size = new System.Drawing.Size(261, 2);
             this.panel6.TabIndex = 63;
@@ -344,7 +344,7 @@
             this.btnbkreturn.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.btnbkreturn.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(40)))), ((int)(((byte)(103)))), ((int)(((byte)(178)))));
             this.btnbkreturn.BackgroundColor = System.Drawing.Color.FromArgb(((int)(((byte)(40)))), ((int)(((byte)(103)))), ((int)(((byte)(178)))));
-            this.btnbkreturn.ButtonText = "Return";
+            this.btnbkreturn.ButtonText = "返回";
             this.btnbkreturn.CausesValidation = false;
             this.btnbkreturn.ErrorImageLeft = ((System.Drawing.Image)(resources.GetObject("btnbkreturn.ErrorImageLeft")));
             this.btnbkreturn.ErrorImageRight = ((System.Drawing.Image)(resources.GetObject("btnbkreturn.ErrorImageRight")));
@@ -356,12 +356,12 @@
             this.btnbkreturn.ImageLeft = null;
             this.btnbkreturn.ImageRight = null;
             this.btnbkreturn.LeftPictureColor = System.Drawing.Color.Transparent;
-            this.btnbkreturn.Location = new System.Drawing.Point(537, 75);
+            this.btnbkreturn.Location = new System.Drawing.Point(537, 69);
             this.btnbkreturn.Name = "btnbkreturn";
             this.btnbkreturn.PaddingLeftPicture = new System.Windows.Forms.Padding(0);
             this.btnbkreturn.PaddingRightPicture = new System.Windows.Forms.Padding(0);
             this.btnbkreturn.RightPictureColor = System.Drawing.Color.Transparent;
-            this.btnbkreturn.Size = new System.Drawing.Size(79, 27);
+            this.btnbkreturn.Size = new System.Drawing.Size(79, 25);
             this.btnbkreturn.SizeModeLeft = System.Windows.Forms.PictureBoxSizeMode.Normal;
             this.btnbkreturn.SizeModeRight = System.Windows.Forms.PictureBoxSizeMode.CenterImage;
             this.btnbkreturn.TabIndex = 66;
@@ -372,7 +372,7 @@
             this.jFlatButton5.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.jFlatButton5.BackColor = System.Drawing.Color.Red;
             this.jFlatButton5.BackgroundColor = System.Drawing.Color.Red;
-            this.jFlatButton5.ButtonText = "Cancel";
+            this.jFlatButton5.ButtonText = "取消";
             this.jFlatButton5.CausesValidation = false;
             this.jFlatButton5.ErrorImageLeft = ((System.Drawing.Image)(resources.GetObject("jFlatButton5.ErrorImageLeft")));
             this.jFlatButton5.ErrorImageRight = ((System.Drawing.Image)(resources.GetObject("jFlatButton5.ErrorImageRight")));
@@ -384,12 +384,12 @@
             this.jFlatButton5.ImageLeft = null;
             this.jFlatButton5.ImageRight = null;
             this.jFlatButton5.LeftPictureColor = System.Drawing.Color.Transparent;
-            this.jFlatButton5.Location = new System.Drawing.Point(537, 114);
+            this.jFlatButton5.Location = new System.Drawing.Point(537, 105);
             this.jFlatButton5.Name = "jFlatButton5";
             this.jFlatButton5.PaddingLeftPicture = new System.Windows.Forms.Padding(0);
             this.jFlatButton5.PaddingRightPicture = new System.Windows.Forms.Padding(0);
             this.jFlatButton5.RightPictureColor = System.Drawing.Color.Transparent;
-            this.jFlatButton5.Size = new System.Drawing.Size(79, 27);
+            this.jFlatButton5.Size = new System.Drawing.Size(79, 25);
             this.jFlatButton5.SizeModeLeft = System.Windows.Forms.PictureBoxSizeMode.Normal;
             this.jFlatButton5.SizeModeRight = System.Windows.Forms.PictureBoxSizeMode.CenterImage;
             this.jFlatButton5.TabIndex = 67;
@@ -410,16 +410,16 @@
             this.panel8.Controls.Add(this.label4);
             this.panel8.Controls.Add(this.label3);
             this.panel8.Controls.Add(this.panel6);
-            this.panel8.Location = new System.Drawing.Point(332, 349);
+            this.panel8.Location = new System.Drawing.Point(332, 322);
             this.panel8.Name = "panel8";
-            this.panel8.Size = new System.Drawing.Size(691, 174);
+            this.panel8.Size = new System.Drawing.Size(691, 161);
             this.panel8.TabIndex = 68;
             // 
             // txtBkIssueDate
             // 
             this.txtBkIssueDate.Font = new System.Drawing.Font("Calibri", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.txtBkIssueDate.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(35)))), ((int)(((byte)(36)))), ((int)(((byte)(55)))));
-            this.txtBkIssueDate.Location = new System.Drawing.Point(239, 79);
+            this.txtBkIssueDate.Location = new System.Drawing.Point(239, 73);
             this.txtBkIssueDate.Name = "txtBkIssueDate";
             this.txtBkIssueDate.Size = new System.Drawing.Size(261, 23);
             this.txtBkIssueDate.TabIndex = 69;
@@ -429,7 +429,7 @@
             // 
             this.txtBkName.Font = new System.Drawing.Font("Calibri", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.txtBkName.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(35)))), ((int)(((byte)(36)))), ((int)(((byte)(55)))));
-            this.txtBkName.Location = new System.Drawing.Point(239, 37);
+            this.txtBkName.Location = new System.Drawing.Point(239, 34);
             this.txtBkName.Name = "txtBkName";
             this.txtBkName.Size = new System.Drawing.Size(261, 23);
             this.txtBkName.TabIndex = 68;
@@ -439,9 +439,9 @@
             this.panel4.BackColor = System.Drawing.Color.White;
             this.panel4.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.panel4.Controls.Add(this.panel9);
-            this.panel4.Location = new System.Drawing.Point(43, 69);
+            this.panel4.Location = new System.Drawing.Point(43, 64);
             this.panel4.Name = "panel4";
-            this.panel4.Size = new System.Drawing.Size(980, 94);
+            this.panel4.Size = new System.Drawing.Size(980, 87);
             this.panel4.TabIndex = 55;
             // 
             // panel9
@@ -453,15 +453,15 @@
             this.panel9.Controls.Add(this.pictureBox7);
             this.panel9.Location = new System.Drawing.Point(-32, -1);
             this.panel9.Name = "panel9";
-            this.panel9.Size = new System.Drawing.Size(1011, 94);
+            this.panel9.Size = new System.Drawing.Size(1011, 87);
             this.panel9.TabIndex = 56;
             // 
             // pictureBox10
             // 
             this.pictureBox10.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox10.Image")));
-            this.pictureBox10.Location = new System.Drawing.Point(756, 22);
+            this.pictureBox10.Location = new System.Drawing.Point(756, 20);
             this.pictureBox10.Name = "pictureBox10";
-            this.pictureBox10.Size = new System.Drawing.Size(53, 57);
+            this.pictureBox10.Size = new System.Drawing.Size(53, 53);
             this.pictureBox10.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox10.TabIndex = 12;
             this.pictureBox10.TabStop = false;
@@ -469,9 +469,9 @@
             // pictureBox4
             // 
             this.pictureBox4.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox4.Image")));
-            this.pictureBox4.Location = new System.Drawing.Point(255, 19);
+            this.pictureBox4.Location = new System.Drawing.Point(255, 18);
             this.pictureBox4.Name = "pictureBox4";
-            this.pictureBox4.Size = new System.Drawing.Size(53, 57);
+            this.pictureBox4.Size = new System.Drawing.Size(53, 53);
             this.pictureBox4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox4.TabIndex = 8;
             this.pictureBox4.TabStop = false;
@@ -481,18 +481,18 @@
             this.pictureBox7.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox7.Image")));
             this.pictureBox7.Location = new System.Drawing.Point(460, 4);
             this.pictureBox7.Name = "pictureBox7";
-            this.pictureBox7.Size = new System.Drawing.Size(124, 90);
+            this.pictureBox7.Size = new System.Drawing.Size(124, 83);
             this.pictureBox7.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox7.TabIndex = 6;
             this.pictureBox7.TabStop = false;
             // 
             // ReturnBook
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.AutoScroll = true;
             this.BackColor = System.Drawing.Color.White;
-            this.ClientSize = new System.Drawing.Size(1035, 580);
+            this.ClientSize = new System.Drawing.Size(1035, 535);
             this.Controls.Add(this.panel8);
             this.Controls.Add(this.dataGridView1);
             this.Controls.Add(this.panel4);
